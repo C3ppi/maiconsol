@@ -1,0 +1,1171 @@
+{
+ "_doc": "Matchup tips for all lanes. Keys: champion name. 'general' = tips for playing AS that champ. 'vs' = tips against specific enemies. 'level2' = level 2 priority (strong/weak/neutral). Tips spoken at game start and during lane phase.",
+ "Jinx": {
+  "general": [
+   "Jinx escala muito, foca no farm e evita trades longos early.",
+   "Usa o W pra pokar de longe e o E pra zoning no all-in.",
+   "Troca pro foguete quando tiver 2 itens, fica mais forte em teamfight."
+  ],
+  "level2": "neutral",
+  "vs": {
+   "Draven": [
+    "Draven ganha todos os trades early. Farma safe, nao troque auto por auto.",
+    "Depois do primeiro item voce escala mais que ele. Paciencia."
+   ],
+   "Caitlyn": [
+    "Caitlyn tem mais range. Nao tente trocar de longe, espera ela gastar o Q.",
+    "Joga atras dos minions pra nao tomar Q."
+   ],
+   "Lucian": [
+    "Lucian e forte level 2 e 3. Nao aceita trade curto, ele ganha.",
+    "Depois de BF Sword voce iguala. Escala melhor."
+   ],
+   "MissFortune": [
+    "Cuidado com o Q ricocheteando nos minions. Nao fica atras de minion baixo.",
+    "Se ela errar o E, voce pode trocar."
+   ],
+   "Samira": [
+    "Samira precisa entrar pra lutar. Fica longe e poka com foguete.",
+    "Se ela usar o E, nao tem mais dash por um tempo. Joga agressivo."
+   ],
+   "Ezreal": [
+    "Ezreal poka de longe mas perde DPS sustentado. Se encostar, troca forte.",
+    "Desvia do Q e farma tranquilo, voce escala mais."
+   ],
+   "KaiSa": [
+    "Kai'Sa e fraca antes do primeiro item. Pressiona ela early.",
+    "Depois que ela evoluir Q e E, cuidado com o burst."
+   ],
+   "Vayne": [
+    "Vayne tem range curto. Abusa do range do foguete pra pokar.",
+    "Nao deixa ela encostar, tumble dela e forte em trade curto."
+   ],
+   "Ashe": [
+    "Ashe tem poke forte com W. Desvia e nao fica travada no slow.",
+    "Level 6 cuidado com a ult, fica atento ao flash."
+   ],
+   "Jhin": [
+    "Jhin tem burst no quarto tiro. Conta os autos e recua no quarto.",
+    "Voce ganha DPS sustentado, em fight longo voce vence."
+   ]
+  }
+ },
+ "Caitlyn": {
+  "general": [
+   "Caitlyn domina a lane com range. Poka bastante e coloca trap no bush.",
+   "Usa o combo auto headshot depois de prender na trap.",
+   "Meio do jogo Caitlyn fica mais fraca, joga com o time."
+  ],
+  "level2": "strong",
+  "vs": {
+   "Jinx": [
+    "Voce tem mais range, abusa isso. Poka toda vez que ela for farmar.",
+    "Coloca trap na frente dela pra zoning."
+   ],
+   "Ezreal": [
+    "Ezreal desvia facil com E. Foca em farmar e pressionar tower.",
+    "Trap atras dos minions pra pegar ele tentando farmar."
+   ],
+   "Vayne": [
+    "Vayne nao pode trocar com voce de longe. Poka e nao deixa ela chegar.",
+    "Se Vayne tentar tumble pra frente, trap no caminho."
+   ],
+   "KaiSa": [
+    "Kai'Sa precisa chegar perto. Mantem distancia e poka com Q.",
+    "Pressiona tower plate, Caitlyn push rapido."
+   ],
+   "Lucian": [
+    "Lucian ganha trade curto. Poka de longe e nao deixa ele encostar.",
+    "Se ele usar E pra frente, ele ta sem dash. Troca forte."
+   ],
+   "Draven": [
+    "Draven ganha DPS se encostar. Mantem range e poka.",
+    "Trap onde os machados vao cair, forca ele a andar."
+   ],
+   "Samira": [
+    "Samira quer all-in. Trap quando ela usar E e mantem distancia.",
+    "Nao deixa ela stackar passiva, poka de longe."
+   ],
+   "MissFortune": [
+    "MF empata range. Cuidado com Q no minion.",
+    "Voce ganha no trade longo com headshot. Abusa das traps."
+   ],
+   "Ashe": [
+    "Range parecido. Quem pokar melhor ganha. Abusa headshot passiva.",
+    "Trap no bush e controla a lane."
+   ],
+   "Jhin": [
+    "Jhin tem burst mas pouco DPS. Troca depois do quarto tiro dele.",
+    "Voce push mais rapido. Pressiona tower."
+   ]
+  }
+ },
+ "Ezreal": {
+  "general": [
+   "Ezreal e safe, farma com Q e escala. Foca em acertar os Qs.",
+   "Sheen no primeiro back e um power spike grande.",
+   "Usa o E pra escapar, nunca pra entrar em fight."
+  ],
+  "level2": "neutral",
+  "vs": {
+   "Draven": [
+    "Draven massacra no trade. Fica longe e farma com Q.",
+    "Depois de Manamune e Essencia Sombria voce poka ele de longe."
+   ],
+   "Caitlyn": [
+    "Caitlyn tem mais range. Farma com Q e espera Sheen.",
+    "Depois de 2 itens voce poka mais que ela."
+   ],
+   "Lucian": [
+    "Lucian ganha trade curto. Nao aceita, poka com Q.",
+    "Se ele usar E agressivo, E pra tras e troca de longe."
+   ],
+   "Jinx": [
+    "Jinx escala igual voce. Poka com Q pra ganhar vantagem early.",
+    "Trade de auto por auto Jinx ganha, mantem distancia."
+   ],
+   "Samira": [
+    "Samira precisa entrar melee. Poka com Q e se ela usar E, usa teu E pra sair.",
+    "Nunca lute dentro do range dela."
+   ],
+   "KaiSa": [
+    "Kai'Sa e fraca early. Pressiona com Q e mantem distancia.",
+    "Depois do segundo item dela, respeita o burst."
+   ],
+   "Vayne": [
+    "Vayne tem range curto. Abusa do Q pra pokar na lane.",
+    "Nao deixa ela encostar, tumble+auto doi."
+   ],
+   "MissFortune": [
+    "MF ganha trade com Q bounce. Nao fica atras de minion baixo.",
+    "Ezreal mais safe, farma e escala."
+   ],
+   "Ashe": [
+    "Ashe poka com W. Desvia e poka de volta com Q.",
+    "Depois de Sheen voce troca bem."
+   ],
+   "Jhin": [
+    "Jhin tem burst no quarto tiro. Conta e desvia.",
+    "Voce poka mais consistente, vantagem no longo prazo."
+   ]
+  }
+ },
+ "KaiSa": {
+  "general": [
+   "Kai'Sa e fraca antes do primeiro item. Farma safe e espera evoluir Q.",
+   "Evolucao do Q e o maior power spike. Joga agressivo depois.",
+   "Com E evoluido vira assassina. Usa pra reposicionar em fight."
+  ],
+  "level2": "weak",
+  "vs": {
+   "Caitlyn": [
+    "Caitlyn abusa range. Aceita perder uns CS e espera o spike do Q.",
+    "Depois de evoluir Q, all-in quando ela desperdicar net."
+   ],
+   "Jinx": [
+    "Jinx escala igual. Tenta vantagem early com burst do Q.",
+    "Trade curto Kai'Sa ganha. Entra, troca e sai."
+   ],
+   "Draven": [
+    "Draven ganha cedo. Nao troca, farma e escala.",
+    "Depois de 2 itens voce bursta ele."
+   ],
+   "Ezreal": [
+    "Ezreal e safe. Tenta forcar trade quando ele errar Q.",
+    "Voce ganha all-in, ele ganha poke. Forca fight curta."
+   ],
+   "Lucian": [
+    "Lucian e forte level 2-3. Respeita o trade curto dele.",
+    "Depois de evoluir Q, voce ganha all-in."
+   ],
+   "MissFortune": [
+    "MF ganha trade com Q. Nao fica atras de minion baixo.",
+    "All-in voce ganha se desviar da ult dela."
+   ],
+   "Ashe": [
+    "Ashe poka e slowa. Espera o suporte engajar e bursta ela.",
+    "Cuidado com a ult level 6."
+   ],
+   "Samira": [
+    "Matchup de all-in. Quem engajar melhor ganha.",
+    "Espera ela desperdicar o W pra trocar."
+   ],
+   "Vayne": [
+    "Vayne ganha 1v1 longo. Troca rapido e sai.",
+    "As duas escalaam, jogo de suporte decide."
+   ],
+   "Jhin": [
+    "Jhin tem burst mas pouco DPS. Depois do quarto tiro, all-in.",
+    "Desvia do W e W do suporte."
+   ]
+  }
+ },
+ "Samira": {
+  "general": [
+   "Samira precisa de all-in. Farma tranquilo e espera a chance.",
+   "Combo com suporte de engage e fundamental. Comunica pro all-in.",
+   "Nao gasta W atoa, guarda pra bloquear skill chave do inimigo."
+  ],
+  "level2": "strong",
+  "vs": {
+   "Ezreal": [
+    "Ezreal foge facil. Precisa que o suporte segure ele.",
+    "Se Ezreal gastar E, all-in imediato."
+   ],
+   "Jinx": [
+    "Jinx nao tem mobilidade. Entra com E e combo completo.",
+    "Cuidado com trap E da Jinx, nao dash dentro."
+   ],
+   "Caitlyn": [
+    "Caitlyn mantem distancia. Espera o suporte engajar.",
+    "Desvia das traps e entra quando possivel."
+   ],
+   "Lucian": [
+    "Matchup de trade. Lucian forte level 2, respeita.",
+    "Level 3 em diante voce ganha all-in se acertar combo."
+   ],
+   "Draven": [
+    "Draven ganha DPS mas Samira ganha all-in com ult.",
+    "Espera ele desperdicar stand aside pra entrar."
+   ],
+   "KaiSa": [
+    "Matchup de all-in. Quem engajar primeiro ganha.",
+    "Seu W bloqueia o Q dela, usa bem."
+   ],
+   "MissFortune": [
+    "MF nao tem escape. All-in forte com suporte.",
+    "W bloqueia a ult da MF, guarda pra isso."
+   ],
+   "Vayne": [
+    "Vayne ganha trade longo. All-in rapido e decisivo.",
+    "Se Vayne usar E, voce nao consegue entrar. Espera."
+   ],
+   "Ashe": [
+    "Ashe slowa e dificulta. Precisa de engage do suporte.",
+    "W bloqueia a ult da Ashe, jogo chave."
+   ],
+   "Jhin": [
+    "Jhin e fragil. All-in depois dele usar quarto tiro.",
+    "Cuidado com W root, desvia antes de entrar."
+   ]
+  }
+ },
+ "Lucian": {
+  "general": [
+   "Lucian domina level 2 e 3. Pusha pra level 2 primeiro e troca.",
+   "Combo: E pra frente, auto, Q, auto. Passiva da auto extra em tudo.",
+   "Lucian cai no late. Precisa ganhar vantagem cedo."
+  ],
+  "level2": "strong",
+  "vs": {
+   "Jinx": [
+    "Jinx nao aguenta trade curto. Level 2 all-in forte.",
+    "Nao deixa o jogo ir pro late, pressiona."
+   ],
+   "Ezreal": [
+    "Ezreal foge com E. Forca trade quando ele gastar E.",
+    "Voce ganha DPS no trade curto, abusa level 2."
+   ],
+   "KaiSa": [
+    "Kai'Sa fraca early. Pressiona muito level 1-3.",
+    "Depois que ela evoluir Q, cuidado."
+   ],
+   "Caitlyn": [
+    "Caitlyn tem mais range. Dash pra dentro e troca rapido.",
+    "Se nao tiver como entrar, farma e espera chance."
+   ],
+   "Draven": [
+    "Draven ganha DPS. Trade rapido e sai, nao fica batendo.",
+    "Level 2 voce tem vantagem se combinar com suporte."
+   ],
+   "Vayne": [
+    "Vayne range curto. Voce abusa level 1-5.",
+    "Se ela usar E na parede, voce ta morto. Cuida do posicionamento."
+   ],
+   "Samira": [
+    "Samira ganha all-in longo com ult. Trade curto e sai.",
+    "Nao deixa ela stackar passiva."
+   ],
+   "MissFortune": [
+    "MF emparelha no trade. Cuidado com Q bounce.",
+    "Voce tem mais mobilidade, abusa disso."
+   ],
+   "Ashe": [
+    "Ashe e imóvel. Dash pra dentro e combo.",
+    "Cuidado com o slow, ela te kita se nao matar rapido."
+   ],
+   "Jhin": [
+    "Jhin perde DPS sustentado. Troca apos o quarto tiro.",
+    "Level 2 voce domina."
+   ]
+  }
+ },
+ "Draven": {
+  "general": [
+   "Draven domina a lane com dano puro. Joga agressivo desde o level 1.",
+   "Pega os machados sempre, ouro da passiva e essencial.",
+   "Nao morra early, stack da passiva vale muito gold."
+  ],
+  "level2": "strong",
+  "vs": {
+   "Jinx": [
+    "Jinx nao aguenta trade. Pressiona desde o level 1.",
+    "Machado doi demais nela, zoning com auto."
+   ],
+   "Ezreal": [
+    "Ezreal e escorregadio. Forca trade quando ele farmar.",
+    "Se ele gastar E, mata facil."
+   ],
+   "Caitlyn": [
+    "Caitlyn tem range. Tenta encostar e trocar forte.",
+    "Se nao tiver como encostar, farma stack."
+   ],
+   "KaiSa": [
+    "Kai'Sa fraca early. Bate nela sem do.",
+    "Cuidado depois do segundo item dela."
+   ],
+   "Lucian": [
+    "Lucian troca bem. Trade rapido, machado ganha.",
+    "Level 1 voce e mais forte. Abusa."
+   ],
+   "Samira": [
+    "Samira quer all-in. Se ela entrar, machado doi mas ult dela tambem.",
+    "Trade curto voce ganha."
+   ],
+   "Vayne": [
+    "Vayne range curto igual voce. Machado massacra early.",
+    "Nao deixa o jogo ir pro late, Vayne escala mais."
+   ],
+   "MissFortune": [
+    "MF troca ok. Cuidado com Q bounce.",
+    "Voce ganha all-in com machados."
+   ],
+   "Ashe": [
+    "Ashe e facil. Poka com machado e mata cedo.",
+    "Cuidado com slow, ela kita bem."
+   ],
+   "Jhin": [
+    "Jhin tem burst mas voce tem DPS. Troca forte.",
+    "Voce ganha a maioria dos trades."
+   ]
+  }
+ },
+ "Vayne": {
+  "general": [
+   "Vayne e fraca early. Farma safe e escala pro late.",
+   "Nao force trades antes de BF Sword, voce perde.",
+   "Level 6 Vayne fica forte em 1v1. Usa ult pra outplay."
+  ],
+  "level2": "weak",
+  "vs": {
+   "Caitlyn": [
+    "Caitlyn abusa range. Aceita perder CS e farma com Q.",
+    "Depois de 2 itens voce ganha qualquer trade."
+   ],
+   "Jinx": [
+    "Jinx escala igual. Tenta vantagem com trade curto.",
+    "Tumble auto e forte contra ela."
+   ],
+   "Draven": [
+    "Draven massacra early. Nao troca antes de BF Sword.",
+    "Depois de 2 itens voce derrete ele."
+   ],
+   "Ezreal": [
+    "Ezreal poka mas voce ganha all-in. Espera chance.",
+    "Tumble pro lado do Q dele e troca."
+   ],
+   "Lucian": [
+    "Lucian domina early. Aceita pressao e farma.",
+    "Depois de 2 itens voce ganha 1v1."
+   ],
+   "KaiSa": [
+    "Matchup equilibrado. Trade curto com tumble e bom.",
+    "As duas escalaam bem."
+   ],
+   "Samira": [
+    "Samira all-in e perigoso. Condemn ela quando entrar.",
+    "Se ela desperdicar E, voce ganha."
+   ],
+   "MissFortune": [
+    "MF ganha early. Farma e escala.",
+    "Desvia do Q e nao fica atras de minion baixo."
+   ],
+   "Ashe": [
+    "Ashe slowa e kita. Precisa de engage do suporte.",
+    "Depois de 2 itens, tumble e mata."
+   ],
+   "Jhin": [
+    "Jhin tem burst. Desvia do W e troca depois do quarto tiro.",
+    "Voce escala mais, paciencia."
+   ]
+  }
+ },
+ "MissFortune": {
+  "general": [
+   "MF ganha lane com Q poke e passiva. Abusa auto em alvo novo.",
+   "Q no minion baixo ricocheteando no inimigo e seu melhor trade.",
+   "Level 6 ult no chokepoint e devastador. Posiciona bem."
+  ],
+  "level2": "strong",
+  "vs": {
+   "Jinx": [
+    "Jinx nao tem mobilidade. Q bounce doi muito nela.",
+    "Pressiona cedo, MF ganha lane."
+   ],
+   "Ezreal": [
+    "Ezreal e safe. Poka com Q bounce e pressiona tower.",
+    "Ele foge facil, mas voce push mais rapido."
+   ],
+   "Caitlyn": [
+    "Range parecido. Q bounce e o diferencial.",
+    "Nao fica travada em trade longo, Caitlyn ganha."
+   ],
+   "Vayne": [
+    "Vayne range curto. Poka e nao deixa ela encostar.",
+    "Voce domina a lane inteira."
+   ],
+   "KaiSa": [
+    "Kai'Sa fraca early. Abusa Q bounce.",
+    "Cuidado depois que ela evoluir Q."
+   ],
+   "Lucian": [
+    "Lucian troca bem. Cuidado com dash dele.",
+    "Q bounce e poka de volta."
+   ],
+   "Draven": [
+    "Draven ganha DPS. Poka de longe e nao aceita all-in.",
+    "Q bounce nos machados caindo."
+   ],
+   "Samira": [
+    "Samira entra e ult. Nao use ult com ela tendo W.",
+    "Poka de longe e mantem distancia."
+   ],
+   "Ashe": [
+    "Matchup de poke. Quem pokar melhor ganha.",
+    "Q bounce > W da Ashe no trade."
+   ],
+   "Jhin": [
+    "Jhin parecido em burst. Troca rapido e sai.",
+    "Q bounce e consistente, abusa."
+   ]
+  }
+ },
+ "Ashe": {
+  "general": [
+   "Ashe da visao com E, usa pra checar bush e jungle inimiga.",
+   "W poke e forte. Mantem distancia e slowa o inimigo.",
+   "Level 6 ult de cross map pode ganhar outras lanes."
+  ],
+  "level2": "neutral",
+  "vs": {
+   "Jinx": [
+    "Matchup equilibrado. W poke e bom mas Jinx escala igual.",
+    "Ult level 6 e o diferencial."
+   ],
+   "Draven": [
+    "Draven ganha all-in. Mantem distancia e slowa.",
+    "Ult quando ele entrar pra stun e kitar."
+   ],
+   "Caitlyn": [
+    "Range parecido. W poke mas Caitlyn tem headshot.",
+    "Joga de farm e usa ult em outras lanes."
+   ],
+   "Lucian": [
+    "Lucian forte level 2. Aceita pressao e poka com W.",
+    "Slow ajuda a kitar ele."
+   ],
+   "Ezreal": [
+    "Ezreal e safe. Poka com W e farma.",
+    "Ult de longe quando ele nao esperar."
+   ],
+   "KaiSa": [
+    "Kai'Sa fraca early. Poka bastante.",
+    "Ult quando ela entrar pra stun."
+   ],
+   "Vayne": [
+    "Vayne quer encostar. W pra slowar e manter distancia.",
+    "Voce precisa ganhar early, ela escala mais."
+   ],
+   "Samira": [
+    "Samira quer all-in. Ult quando ela entrar.",
+    "W pra slowar e manter distancia."
+   ],
+   "MissFortune": [
+    "MF poka com Q. Desvia e poka de volta com W.",
+    "Matchup de poke, quem acertar mais ganha."
+   ],
+   "Jhin": [
+    "Range parecido. W e bom pra controlar.",
+    "Ult cross map e o diferencial."
+   ]
+  }
+ },
+ "Jhin": {
+  "general": [
+   "Jhin tem burst forte no quarto tiro. Gerencia bem os autos.",
+   "W root e forte pra seguir engage do suporte.",
+   "Movement speed apos crit, usa pra kitar e reposicionar."
+  ],
+  "level2": "neutral",
+  "vs": {
+   "Jinx": [
+    "Jinx escala mais. Pressiona com burst do quarto tiro.",
+    "Nao deixa o jogo ir pro late."
+   ],
+   "Caitlyn": [
+    "Caitlyn tem range. Trade com quarto tiro e recua.",
+    "W pra segurar ela no lugar."
+   ],
+   "Ezreal": [
+    "Ezreal safe. Poka com W e quarto tiro.",
+    "Difícil matar mas voce controla a lane."
+   ],
+   "Lucian": [
+    "Lucian ganha DPS. Trade no quarto tiro e sai.",
+    "Nao aceita trade longo."
+   ],
+   "Draven": [
+    "Draven ganha DPS. Quarto tiro e recua.",
+    "W root quando ele entrar pra trocar."
+   ],
+   "KaiSa": [
+    "Kai'Sa fraca early. Abusa quarto tiro.",
+    "Depois que ela evoluir, respeita."
+   ],
+   "Vayne": [
+    "Vayne range curto. Poka e nao deixa encostar.",
+    "Voce ganha a lane."
+   ],
+   "Samira": [
+    "Samira all-in. W quando ela usar E.",
+    "Nao deixa ela stackar passiva."
+   ],
+   "MissFortune": [
+    "MF troca bem. Cuidado com Q bounce.",
+    "Trade rapido no quarto tiro."
+   ],
+   "Ashe": [
+    "Ashe poka. Troca com quarto tiro.",
+    "W pra segurar e burst."
+   ]
+  }
+ },
+ "Aphelios": {
+  "general": [
+   "Aphelios depende das armas certas. Gerencia a rotacao.",
+   "Severum verde cura, Gravitum roxa root, Infernum vermelho area.",
+   "Power spike no primeiro item. Joga safe antes disso."
+  ],
+  "level2": "weak",
+  "vs": {}
+ },
+ "Sivir": {
+  "general": [
+   "Sivir push rapido e safe com Q e W. Farma tudo e escala.",
+   "Escudo E bloqueia uma skill, usa pra skill chave do inimigo.",
+   "Ult de engage ou fuga, bom pra rotacao com time."
+  ],
+  "level2": "neutral",
+  "vs": {}
+ },
+ "Tristana": {
+  "general": [
+   "Tristana forte level 2 com W e E. Pusha e troca.",
+   "E no tower pra plate gold. Abusa isso.",
+   "W reseta no kill, all-in e forte."
+  ],
+  "level2": "strong",
+  "vs": {}
+ },
+ "Xayah": {
+  "general": [
+   "Xayah tem root forte com penas. Posiciona as penas bem.",
+   "Ult da invulnerabilidade, guarda pra skill chave inimiga.",
+   "Com Rakan suporte e combo fortissimo."
+  ],
+  "level2": "neutral",
+  "vs": {}
+ },
+ "Twitch": {
+  "general": [
+   "Twitch e fraco na lane. Farma safe e espera 2 itens.",
+   "Invisibilidade Q pra roaming e ganks surpresa.",
+   "Late game Twitch e monstro. Paciencia na lane."
+  ],
+  "level2": "weak",
+  "vs": {}
+ },
+ "Varus": {
+  "general": [
+   "Varus poka de longe com Q. Farma e poka ao mesmo tempo.",
+   "3 stacks de W e Q ou ult maximiza dano.",
+   "Level 6 ult de engage, combina com suporte de CC."
+  ],
+  "level2": "neutral",
+  "vs": {}
+ },
+ "Nilah": {
+  "general": [
+   "Nilah precisa estar perto. Joga com suporte de engage.",
+   "W bloqueia autos, usa contra ADC inimigo.",
+   "Escala rapido com XP compartilhado da passiva."
+  ],
+  "level2": "strong",
+  "vs": {}
+ },
+ "KogMaw": {
+  "general": [
+   "Kog'Maw e o melhor contra tanques. W ativa e DPS absurdo.",
+   "Muito fragil, depende do suporte pra proteger.",
+   "Depois de 2 itens derrete qualquer coisa."
+  ],
+  "level2": "weak",
+  "vs": {}
+ },
+ "Smolder": {
+  "general": [
+   "Smolder escala com stacks de Q. Farma tudo e escala.",
+   "225 stacks e o mega spike. Foca em farm ate la.",
+   "Safe com E dash, difícil de gankar."
+  ],
+  "level2": "weak",
+  "vs": {}
+ },
+ "Kalista": {
+  "general": [
+   "Kalista domina lane com suporte. Joga agressivo level 2.",
+   "E reseta com kill de minion. Stacka e executa.",
+   "Ult salva suporte e engaja. Comunica."
+  ],
+  "level2": "strong",
+  "vs": {}
+ },
+ "Zeri": {
+  "general": [
+   "Zeri precisa de itens. Farma safe e escala.",
+   "E atravessa parede, bom pra fugir de gank.",
+   "Ult em teamfight e o spike, movimenta bastante."
+  ],
+  "level2": "weak",
+  "vs": {}
+ },
+ "Darius": {
+  "general": [
+   "Darius domina trades longos. Foque em stackar a passiva Hemorragia.",
+   "Usa o E pra puxar o inimigo quando ele tentar recuar.",
+   "Sua ultimate dá dano verdadeiro e reseta no abate, use para finalizar."
+  ],
+  "vs": {
+   "Garen": [
+    "Garen quer trocas curtas. Não deixe ele sair sem tomar um trade longo.",
+    "Use seu E para interromper a passiva de cura dele."
+   ],
+   "Jax": [
+    "O E do Jax bloqueia seus ataques. Guarde seu W para depois que o Counter Strike acabar.",
+    "Você ganha trades estendidos se ele não te stunar."
+   ],
+   "Malphite": [
+    "Malphite escala armadura, mas sua ult ignora isso com dano verdadeiro.",
+    "Ele tem pouco sustain early, pressione o máximo possível."
+   ],
+   "Irelia": [
+    "Não lute contra a Irelia se ela estiver com os stacks cheios.",
+    "Sua ult finaliza ela fácil se você conseguir as 5 marcas."
+   ],
+   "Fiora": [
+    "A Fiora pode ripostar seu E ou R. Tente baitar o W dela antes de usar suas skills chave."
+   ]
+  }
+ },
+ "Zed": {
+  "general": [
+   "Zed é um assassino de burst. Use as sombras (W) para pokar com Q+E.",
+   "Sua passiva ajuda muito a dar last hit em minions com pouca vida.",
+   "A Ultimate (R) serve para desviar de habilidades e garantir o abate."
+  ],
+  "vs": {
+   "Lux": [
+    "Lux é muito frágil. Desvie do Q dela e o all-in é quase garantia de abate.",
+    "Você tem muito mais mobilidade. Use sombras para flanquear."
+   ],
+   "Yasuo": [
+    "A parede de vento do Yasuo bloqueia seus shurikens. Tente forçar o W dele antes de ultar.",
+    "Desvie do furacão dele usando seu R ou W para não ser stunado."
+   ],
+   "Veigar": [
+    "A gaiola do Veigar é perigosa. Use seu R para saltar por cima ou sombras para sair.",
+    "Ele escala mais que você, tente ganhar vantagem antes do nível 11."
+   ],
+   "Ahri": [
+    "O Charme da Ahri pode cancelar seu combo. Tente ultar nela depois que ela gastar o E.",
+    "Use suas sombras para acompanhar os dashes da ult dela."
+   ],
+   "Katarina": [
+    "A Katarina é vulnerável se você guardar seu W para segui-la.",
+    "Sua ult é instantânea, a dela não. Você ganha o burst rápido."
+   ]
+  }
+ },
+ "Yasuo": {
+  "general": [
+   "Yasuo depende de mobilidade entre minions. Use o E para desviar de skills.",
+   "A parede de vento (W) é sua maior defesa. Guarde para habilidades chave.",
+   "Acertar o furacão (Q3) é essencial para ativar sua Ultimate."
+  ],
+  "vs": {
+   "Lux": [
+    "A parede de vento bloqueia o Q e o E da Lux. Avance sem medo quando o W dela cair.",
+    "Use o E nos minions para chegar perto e desviar das skills dela."
+   ],
+   "Ahri": [
+    "O Charme (E) da Ahri interrompe seu dash. Tente bloquear com a parede antes de avançar.",
+    "Ela tem muita mobilidade com a ult, tente guardar seu furacão para quando ela parar."
+   ],
+   "Zed": [
+    "Seu W bloqueia o poke do Zed. Se ele ultar, use o furacão logo atrás de você quando ele aparecer.",
+    "Matchup de habilidade. Quem usar melhor os recursos de desvio ganha."
+   ],
+   "Syndra": [
+    "O E da Syndra empurra você e cancela seu dash. Guarde sua parede para o stun dela.",
+    "Tente se aproximar quando as orbes dela estiverem longe."
+   ],
+   "Hwei": [
+    "O Hwei tem muitas skills de área. Use seu E constantemente para não ser um alvo fácil.",
+    "A parede de vento bloqueia quase todos os projéteis dele, use no momento certo."
+   ]
+  }
+ },
+ "Leona": {
+  "general": [
+   "Leona é focada em engage total. Escolha o alvo mais frágil.",
+   "Seu combo principal é E + Q + R para uma cadeia de controle de grupo infinita.",
+   "Aproveite o bônus de resistência do W para tancar a torre em dives."
+  ],
+  "vs": {
+   "Lux": [
+    "Lux morre se você encostar nela. Use Flash + E ou R para iniciar o engage.",
+    "Cuidado com o Q dela enquanto você corre em linha reta."
+   ],
+   "Soraka": [
+    "Foque na Soraka, não no ADC. Se ela morrer, o time deles perde todo o sustain.",
+    "Use seu R para interromper a ult dela ou impedir que ela se posicione."
+   ],
+   "Morgana": [
+    "O Escudo Negro (E) da Morgana anula seu CC. Tente forçar o escudo e mudar o foco para o outro alvo.",
+    "Espere o escudo acabar antes de usar sua Ultimate."
+   ],
+   "Thresh": [
+    "O Thresh pode interromper seu E com o dele. Tente engajar depois que ele usar as skills.",
+    "Sua ult ajuda a prender ele e o ADC juntos para o seu time burstarem."
+   ],
+   "Nautilus": [
+    "Quem der o engage primeiro no alvo errado perde. Mire no ADC e não no Nautilus.",
+    "Use seu combo de stun para garantir que o Nautilus não use o escudo dele a tempo."
+   ]
+  }
+ },
+ "Thresh": {
+  "general": [
+   "A Lanterna (W) é sua melhor ferramenta para salvar aliados ou trazer o jungler.",
+   "Use seu E (Esfolar) para interromper pulos e avanços inimigos (como o E do Leona).",
+   "O Hook (Q) tem um delay, tente prever a movimentação inimiga."
+  ],
+  "vs": {
+   "Blitzcrank": [
+    "Se ele puxar seu ADC, use a lanterna imediatamente para salvá-lo.",
+    "Tente dar o hook depois que ele errar o dele, ele fica vulnerável."
+   ],
+   "Nautilus": [
+    "Matchup de hooks. Quem puxar primeiro o alvo frágil ganha a troca.",
+    "Use o E para afastar ele sempre que ele tentar dar o ataque básico do enraizar."
+   ],
+   "Leona": [
+    "Você pode interromper o E dela com o seu Esfolar (E) se for rápido o suficiente.",
+    "Jogue a lanterna para o seu ADC se ela conseguir acertar o stun."
+   ],
+   "Pyke": [
+    "O Pyke é muito móvel. Use seu E para cancelar o dash dele quando ele tentar o stun.",
+    "A lanterna salva seu ADC da área da ult de execução dele."
+   ],
+   "Morgana": [
+    "A Morgana é sua maior counter. Tente forçar o Shield dela antes de usar seu Q.",
+    "O Shield dela anula seu hook, foque em quem estiver sem o escudo."
+   ]
+  }
+ },
+ "Aatrox": {
+  "general": [
+   "Foque em acertar o centro do seu Q para causar dano extra e curar.",
+   "Sua passiva dá um ataque básico fortalecido que cura muito, use-a em campeões.",
+   "A Ultimate (R) aumenta sua cura e velocidade, ideal para virar lutas."
+  ],
+  "vs": {
+   "Fiora": [
+    "Ela pode ripostar (W) o seu Q3. Tente baitar a skill antes de usar o combo completo.",
+    "Matchup difícil, foque em trocas curtas com o Q1 e Q2."
+   ],
+   "Irelia": [
+    "A Irelia tem muita mobilidade. Tente acertar seu W para prendê-la antes de usar o Q.",
+    "Cuidado com os stacks dela. Se a passiva estiver cheia, recue."
+   ],
+   "Darius": [
+    "O Darius ganha trades longos. Use seus Qs para pokar e só entre quando ele estiver com pouca vida.",
+    "Use seu E para fugir do puxão dele se estiver perdendo a troca."
+   ],
+   "Renekton": [
+    "O Renekton tem muito burst early. Guarde seu E para desviar do stun dele se possível.",
+    "Use sua ult para garantir o sustain que ele também tem."
+   ]
+  }
+ },
+ "LeeSin": {
+  "general": [
+   "Sua passiva dá velocidade de ataque após usar skills, lembre-se de usar ataques básicos entre elas.",
+   "O Q2 dá dano baseado na vida perdida, use para executar alvos.",
+   "Use wards para pular com o W e ganhar mobilidade ou flanquear com o R (Insec)."
+  ],
+  "vs": {
+   "MasterYi": [
+    "Você é muito forte early. Tente invadir e matar ele antes do nível 6.",
+    "Guarde seu R para chutar ele para longe quando ele usar o Highlander."
+   ],
+   "KhaZix": [
+    "Se ele te isolar, o dano dele aumenta muito. Fique perto dos monstros ou aliados.",
+    "Use o E para revelar ele se ele entrar na invisibilidade."
+   ],
+   "Vi": [
+    "A Vi pode te travar com a ult. Tente usar seu W para pular paredes e desviar do engage dela.",
+    "No 1x1 você precisa acertar o Q para ganhar o burst."
+   ],
+   "JarvanIV": [
+    "Se o Jarvan te prender na arena (R), use seu W para pular fora se tiver um aliado ou ward.",
+    "Foque em desviar do combo EQ dele para não ser levantado."
+   ]
+  }
+ },
+ "MasterYi": {
+  "general": [
+   "Seu foco é farmar e pegar neutralizações para resetar as skills.",
+   "Use seu Q para desviar de habilidades de controle de grupo (CC) cruciais.",
+   "O W (Meditar) reduz muito o dano recebido, use para tancar bursts."
+  ],
+  "vs": {
+   "Rammus": [
+    "Pior pesadelo do Yi. Evite bater nele enquanto o W dele estiver ativo.",
+    "Espere o taunt passar ou use a passiva do Q para desviar."
+   ],
+   "Amumu": [
+    "O Amumu tem muito CC. Espere ele usar a ult antes de entrar na luta com tudo.",
+    "Você derrete ele no 1x1 se conseguir desviar da bandagem (Q)."
+   ],
+   "LeeSin": [
+    "O Lee Sin pode te chutar para longe e cancelar sua ult. Espere ele usar o R ou use o Q para desviar.",
+    "Se ele te marcar com o Q, use o Meditar (W) para reduzir o dano do chute."
+   ],
+   "Jax": [
+    "O Counter Strike (E) do Jax é fatal para você. Só entre quando ele já tiver gastado o E.",
+    "Use seu Q para tentar 'resetar' o tempo do stun dele se ele o atingir."
+   ]
+  }
+ },
+ "Ahri": {
+  "general": [
+   "Ahri é uma maga de mobilidade e pick-off. Acerte o Charme (E) para garantir o combo.",
+   "Seu Q cura quando a passiva está carregada, use para se manter na lane.",
+   "A Ultimate dá 3 dashes (ou mais com abates), use para reposicionar e caçar alvos."
+  ],
+  "vs": {
+   "Zed": [
+    "Guarde seu E (Charme) para quando ele usar a Ultimate em você. Ele sempre aparece atrás de você.",
+    "Use sua mobilidade para desviar dos shurikens dele e pokar de longe."
+   ],
+   "Yasuo": [
+    "A parede de vento bloqueia todas as suas skills principais. Tente pokar com o range do Q.",
+    "Desvie dos furacões com o R e não tente trocar perto dos seus minions."
+   ],
+   "Mel": [
+    "Mel tem muito alcance com as habilidades. Foque em desviar do poke antes de tentar o charme.",
+    "Use sua Ultimate para sair rapidamente da área de impacto das skills da Mel."
+   ],
+   "Katarina": [
+    "O Charme cancela a ult da Katarina instantaneamente. Guarde o E para o momento que ela girar.",
+    "Ela é muito vulnerável a poke early game. Abuse do seu Q."
+   ],
+   "Lux": [
+    "Matchup de skillshot. Quem acertar o CC (Q ou E) primeiro ganha a troca.",
+    "Use seus dashes para desviar do burst dela e garantir o abate."
+   ]
+  }
+ },
+ "Lulu": {
+  "general": [
+   "Lulu é a rainha do peel. Sua função é manter o ADC vivo a qualquer custo.",
+   "O polimorfismo (W no inimigo) é o melhor counter para assassinos que pulam no seu time.",
+   "Use o E para dar escudo ou revelar inimigos invisíveis."
+  ],
+  "vs": {
+   "Leona": [
+    "Use o W (Polimorfismo) nela assim que ela entrar com o E para impedir que ela continue o combo.",
+    "Dê escudo (E) para o seu ADC assim que vir a marca do E da Leona nele."
+   ],
+   "Pyke": [
+    "Sua ult (R) dá vida extra instantânea, o que pode negar a execução do Pyke.",
+    "Use o polimorfismo nele para impedir que ele carregue o hook."
+   ],
+   "Thresh": [
+    "Mantenha distância do hook. Se o Thresh puxar, transforme o ADC inimigo em bicho para ele não bater.",
+    "Use seu E para revelar o Thresh se ele tentar fugir ou usar a lanterna."
+   ]
+  }
+ },
+ "Blitzcrank": {
+  "general": [
+   "Toda a pressão do Blitz é baseada em errar ou acertar o Hook (Q).",
+   "Seu W dá velocidade mas depois te causa lentidão, use com cuidado para se posicionar.",
+   "A Ultimate silencia em área, perfeito para cancelar canalizações (como a ult da Samira)."
+  ],
+  "vs": {
+   "Lux": [
+    "Lux não tem escape. Um puxão nela é morte quase certa. Pressione os matos.",
+    "Desvie do Q dela antes de tentar o hook, senão você fica preso no lugar."
+   ],
+   "Soraka": [
+    "Foque o hook na Soraka para silenciá-la e explodi-la antes que ela cure o time.",
+    "Ela tem pouco HP, então o burst do seu E + R costuma bastar."
+   ],
+   "Leona": [
+    "Se você puxar a Leona, ela vai agradecer. Foque no ADC e use o silêncio para impedir o contra-ataque dela.",
+    "Mantenha a agressão constante no mato para ela não saber de onde vem o hook."
+   ],
+   "Thresh": [
+    "O Thresh pode salvar o ADC com a lanterna. Tente ultar na lanterna para silenciar quem tentar clicar.",
+    "Matchup de hook. O Blitz ganha se puxar o alvo frágil primeiro."
+   ]
+  }
+ },
+ "Mel": {
+  "general": [
+   "Mel tem um alcance absurdo de poke. Use para manter o inimigo sob pressão.",
+   "Sua passiva concede resistência após um tempo fora de combate.",
+   "A Ultimate (R) causa grande dano e controle em área, ideal para combates em grupo."
+  ],
+  "vs": {
+   "Ahri": [
+    "Ahri tem muita mobilidade. Tente prever o dash dela antes de soltar suas habilidades.",
+    "Não deixe ela chegar perto para usar o charme. Mantenha a distância máxima do poke."
+   ],
+   "Zed": [
+    "O Zed pode pular em você rapidamente. Guarde sua zona de proteção para o momento que ele ultar.",
+    "Mantenha o poke constante para que ele não consiga farmar de graça early game."
+   ]
+  }
+ },
+ "Akali": {
+  "general": [
+   "Akali é baseada em hit-and-run. Use o W (Proteção) para sumir após atacar.",
+   "Combine o E1 para marcar e o E2 para avançar ou recuar com estilo.",
+   "A Ult (R) é seu principal motor de abate, use o R1 para pular e o R2 para executar."
+  ],
+  "vs": {
+   "Yasuo": [
+    "O Yasuo não pode bloquear seu Q com a parede se você estiver perto dele. Abuse disso.",
+    "Use seu W se ele tentar te levantar com o furacão para evitar o follow-up."
+   ],
+   "Zed": [
+    "Se o Zed ultar, use o seu W imediatamente para ficar invisível e evitar o dano da marca.",
+    "Tente prever onde ele vai voltar nas sombras para acertar seu E."
+   ],
+   "Ahri": [
+    "Use sua fumaça (W) para desviar do Charme se ela tentar te combar.",
+    "Sua ult tem muito mais execute que o sustain dela. Force a troca no nível 6."
+   ],
+   "Lux": [
+    "Lux é um alvo fácil depois que erra o Q. Use seu E para desviar e pular nela.",
+    "Mantenha a pressão constante para que ela não consiga farmar de longe."
+   ]
+  }
+ },
+ "Fizz": {
+  "general": [
+   "Fizz é mestre em desviar. Guarde o E (Brincalhão) para evitar skills fatais.",
+   "O W reseta o ataque básico e dá muito dano em alvos parados.",
+   "A Ult (R) dá mais dano quanto mais longe você jogar o peixe."
+  ],
+  "vs": {
+   "Lux": [
+    "Matchup fácil. Use seu Q para chegar perto e o E para desviar do Q dela.",
+    "Se ela ultar, salte com o E e finalize com o combo W+Q."
+   ],
+   "Ahri": [
+    "Cuidado com o Charme. Se você usar o E cedo demais, ela te pega na volta.",
+    "Tente ultar nela de longe para forçar os dashes da ult dela."
+   ],
+   "Zed": [
+    "Use seu E para desviar da marca quando o Zed ultar. É um duelo de reflexos.",
+    "Você tem mais burst sustentado. Tente trocas longas com seu W ativo."
+   ],
+   "Yasuo": [
+    "A parede do Yasuo bloqueia seu peixe (R). Use o Q para chegar perto e ultar a queima roupa.",
+    "Pule o furacão com o E e você ganha a troca fácil."
+   ]
+  }
+ },
+ "KhaZix": {
+  "general": [
+   "Kha'Zix brilha contra alvos isolados. Procure por quem está longe dos minions.",
+   "Evolver o Q aumenta o dano por segundo, o E dá mobilidade (reseta no abate).",
+   "Sua passiva reseta quando você entra e sai da visão inimiga ou usa o R."
+  ],
+  "vs": {
+   "LeeSin": [
+    "O Lee Sin pode te revelar com o E dele. Cuidado ao usar sua invisibilidade.",
+    "No 1x1 isolado você ganha, mas se ele te chutar pra longe ele escapa."
+   ],
+   "MasterYi": [
+    "Tente matar o Yi antes que ele stacke a Guinsoo. Use sua invisibilidade para esperar o tempo do E dele acabar.",
+    "Exploda ele com o Q isolado antes que ele consiga se curar com o W."
+   ],
+   "Vi": [
+    "Se a Vi carregar o Q, use seu E para saltar para longe ou pular nela se ela errar.",
+    "Guarde sua invisibilidade para quando ela usar a Ultimate em você."
+   ],
+   "JarvanIV": [
+    "O Jarvan pode te prender. Use o salto (E) para sair do cataclisma dele ou invadir quando o EQ dele cair.",
+    "O dano isolado destrói ele se ele não acertar o combo."
+   ]
+  }
+ },
+ "Vi": {
+  "general": [
+   "Vi é pura força bruta. Acerte o Q carregado para garantir o controle.",
+   "Sua passiva dá um escudo ao usar skills, use isso para aguentar trocas curtas.",
+   "O combo Q + AA + E ativa sua passiva de W rapidamente, tirando armadura do alvo."
+  ],
+  "vs": {
+   "LeeSin": [
+    "Você ganha o 1x1 se acertar o Q nele. Se ele errar o Q dele, avance sem medo.",
+    "Use sua Ultimate para travar ele e impedir que ele fuja com o W ou pule em wards."
+   ],
+   "MasterYi": [
+    "Sua Ult é excelente para parar o Master Yi. Guarde-a para quando ele entrar no seu time.",
+    "Não use o Q no começo se ele tiver o Q (Alpha) disponível, ele vai desviar."
+   ],
+   "KhaZix": [
+    "Não deixe ele te isolar. Fique perto dos monstros da jungle durante a luta.",
+    "Acerte o Q para tirar o sustento dele e force a troca melee."
+   ]
+  }
+ },
+ "Fiora": {
+  "general": [
+   "Fiora vence duelando. Foque em quebrar os Pontos Vitais expostos.",
+   "O W (Ripostar) é seu trunfo: ele devolve stuns e bloqueia qualquer dano.",
+   "A Ult mostra 4 vitais. Quebre todos para curar em área e ganhar velocidade."
+  ],
+  "vs": {
+   "Aatrox": [
+    "Basta ripostar o Q3 dele para stuná-lo. Fique perto dele e use o Q para desviar dos outros Qs.",
+    "Você escala muito melhor. Foque em trocas constantes para desgastar."
+   ],
+   "Jax": [
+    "Riposte o E dele quando o círculo estiver prestes a estourar. Isso garante o stun no Jax.",
+    "Não use a ult se o E dele estiver ativo, ele vai bloquear seus ataques básicos."
+   ],
+   "Irelia": [
+    "Riposte o E dela (o stun) para ganhar a troca instantaneamente.",
+    "Foque em quebrar os vitais assim que ela usar o Q para vir em você."
+   ],
+   "Camille": [
+    "O W da Camille pode ser desviado com seu Q. Riposte o E dela para stuná-la na parede.",
+    "Na ult dela, foque em se movimentar para quebrar os vitais rapidamente."
+   ]
+  }
+ },
+ "Irelia": {
+  "general": [
+   "Tudo sobre a Irelia são os Stacks. Nunca lute se a passiva não estiver no máximo.",
+   "Use o Q nos minions com pouca vida para resetar e manter a mobilidade alta.",
+   "Acerte o E (Dueto) para marcar e poder usar o Q duas vezes no campeão."
+  ],
+  "vs": {
+   "Darius": [
+    "Matchup perigoso. Se ele te puxar sem você ter stacks, você morre. Lute apenas com passiva cheia.",
+    "Use seu W para reduzir o dano da Ult dele se não conseguir desviar do círculo do Q."
+   ],
+   "Aatrox": [
+    "Use sua mobilidade para entrar no 'ponto cego' (os círculos internos) dos Qs dele.",
+    "Você bate muito mais rápido. Foque em quebrar o sustain dele com o seu burst."
+   ],
+   "Fiora": [
+    "Cuidado com o Ripostar dela. Se ela stunar seu Q, você perde a troca.",
+    "Use sua ult para reduzir o dano dela e tente burstá-la antes que ela quebre todos os vitais."
+   ],
+   "Camille": [
+    "Não use seu E se a Camille estiver com o Shield passivo ativo. Espere o escudo cair.",
+    "Desvie do W dela usando seu Q nos minions."
+   ]
+  }
+ },
+ "Morgana": {
+  "general": [
+   "O Q (Ligação das Trevas) trava por muito tempo. Pressione e aguarde a abertura.",
+   "O E (Escudo Negro) anula qualquer CC. Use no seu ADC logo que ele for focado.",
+   "Sua Ult é boa para desengajar ou prender múltiplos alvos em sequência."
+  ],
+  "vs": {
+   "Leona": [
+    "Use o Escudo Negro em quem ela tentar avançar. Isso anula todo o combo da Leona.",
+    "Se ela te ultar, o escudo protege você do stun, mas não do dano."
+   ],
+   "Blitzcrank": [
+    "Reação é tudo. Guarde o E para o hook do Blitz. Se ele errar, seu time ganha a brecha.",
+    "Se você for puxada, use a poça (W) embaixo dele para tirar o máximo de vida."
+   ],
+   "Thresh": [
+    "O Escudo Negro anula o puxão do Thresh. Use no ADC assim que vir o hook saindo.",
+    "Sua ult impede que o Thresh use a lanterna para fugir se ele estiver stunado."
+   ],
+   "Pyke": [
+    "O Pyke não consegue te stunar se você usar o E no momento certo do dash dele.",
+    "Sua poça impede que ele recupere vida passiva se ele ficar em cima."
+   ]
+  }
+ },
+ "Nami": {
+  "general": [
+   "Nami é suporte de utilidade agressiva. Use o W para dar poke e curar ao mesmo tempo.",
+   "A Bolha (Q) é difícil de acertar. Use o E (Bênção) no seu ADC para ele dar lentidão e facilitar seu acerto.",
+   "A Maré Alta (R) é excelente para desengajar ou iniciar lutas em corredores estreitos."
+  ],
+  "vs": {
+   "Leona": [
+    "Se a Leona entrar, tente acertar a bolha nela logo que o dash acabar para impedir o stun seguinte.",
+    "Use seu R para criar espaço entre o seu ADC e o engage deles."
+   ],
+   "Thresh": [
+    "O Thresh pode tentar puxar seu ADC. Use seu W no ADC para dar velocidade e cura imediata.",
+    "Mantenha a distância. Se você for pega no hook, é muito difícil sobreviver."
+   ],
+   "Blitzcrank": [
+    "Se o Blitz correr em sua direção, use seu E no ADC para ele ganhar velocidade e fugir do hook.",
+    "Tente dar o poke constante para que ele não tenha vida para dar o engage."
+   ],
+   "Morgana": [
+    "O Escudo Negro anula sua bolha. Tente forçar o escudo com o poke do W antes de usar o Q.",
+    "Mantenha o sustain alto, pois ela não tem cura para o ADC."
+   ],
+   "Nautilus": [
+    "Use seu Q para interromper o dash dele (Q) ou prendê-lo após o engage.",
+    "Seu W pode curar o poke dele e o E no ADC ajuda a desviar do CC."
+   ],
+   "Alistar": [
+    "Use seu Q para interromper o combo W+Q dele ou prendê-lo após o engage.",
+    "Seu R pode desengajar o time dele e proteger seu ADC."
+   ],
+   "Rell": [
+    "Use seu Q para interromper o W dela (o dash) ou prendê-la após o engage.",
+    "Seu R pode criar uma grande distância entre ela e seu time."
+   ]
+  }
+ }
+}

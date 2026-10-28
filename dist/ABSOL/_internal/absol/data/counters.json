@@ -1,0 +1,3001 @@
+{
+ "Aatrox": {
+  "counters": [
+   "Fiora",
+   "Irelia",
+   "Quinn",
+   "Vayne",
+   "Kennen"
+  ],
+  "good_against": [
+   "Malphite",
+   "Ornn",
+   "Sion",
+   "TahmKench"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Ahri": {
+  "counters": [
+   "Kassadin",
+   "Yasuo",
+   "Fizz",
+   "Zed",
+   "Syndra"
+  ],
+  "good_against": [
+   "Veigar",
+   "TwistedFate",
+   "Lux",
+   "Viktor"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Akali": {
+  "counters": [
+   "Galio",
+   "Annie",
+   "Kassadin",
+   "Malzahar",
+   "Lissandra"
+  ],
+  "good_against": [
+   "Azir",
+   "Xerath",
+   "VelKoz",
+   "Ziggs"
+  ],
+  "lanes": [
+   "MID",
+   "TOP"
+  ]
+ },
+ "Akshan": {
+  "counters": [
+   "Irelia",
+   "Yasuo",
+   "Zed",
+   "Fizz",
+   "Syndra"
+  ],
+  "good_against": [
+   "Vladimir",
+   "Kassadin",
+   "Katarina"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Alistar": {
+  "counters": [
+   "Morgana",
+   "Janna",
+   "Braum",
+   "Zyra",
+   "Taric"
+  ],
+  "good_against": [
+   "Yuumi",
+   "Sona",
+   "Soraka",
+   "Lux"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Ambessa": {
+  "counters": [
+   "Vayne",
+   "Quinn",
+   "Kennen",
+   "Gwen",
+   "Fiora"
+  ],
+  "good_against": [
+   "Gangplank",
+   "Nasus",
+   "Sion",
+   "Ornn"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Amumu": {
+  "counters": [
+   "LeeSin",
+   "Nidalee",
+   "Graves",
+   "Kha'Zix",
+   "Kindred"
+  ],
+  "good_against": [
+   "MasterYi",
+   "Shyvana",
+   "Rammus"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Anivia": {
+  "counters": [
+   "Fizz",
+   "Kassadin",
+   "Zed",
+   "LeBlanc",
+   "Yasuo"
+  ],
+  "good_against": [
+   "Vladimir",
+   "Ryze",
+   "Malzahar",
+   "Viktor"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Annie": {
+  "counters": [
+   "Xerath",
+   "VelKoz",
+   "Syndra",
+   "Lux",
+   "Ziggs"
+  ],
+  "good_against": [
+   "Katarina",
+   "Akali",
+   "Fizz",
+   "Yasuo"
+  ],
+  "lanes": [
+   "MID",
+   "SUP"
+  ]
+ },
+ "Aphelios": {
+  "counters": [
+   "Draven",
+   "Caitlyn",
+   "Tristana",
+   "MissFortune",
+   "Lucian"
+  ],
+  "good_against": [
+   "Ezreal",
+   "KogMaw",
+   "Jinx"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Ashe": {
+  "counters": [
+   "Draven",
+   "Samira",
+   "Lucian",
+   "Tristana",
+   "KaiSa"
+  ],
+  "good_against": [
+   "Jinx",
+   "KogMaw",
+   "Twitch"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Aurelion Sol": {
+  "counters": [],
+  "good_against": [],
+  "lanes": []
+ },
+ "Aurora": {
+  "counters": [
+   "Cassiopeia",
+   "Syndra",
+   "Orianna",
+   "Irelia",
+   "Yasuo"
+  ],
+  "good_against": [
+   "Vladimir",
+   "Malzahar",
+   "Veigar"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Azir": {
+  "counters": [
+   "Xerath",
+   "Syndra",
+   "Zed",
+   "Fizz",
+   "Kassadin"
+  ],
+  "good_against": [
+   "Vladimir",
+   "Ryze",
+   "TwistedFate",
+   "Malzahar"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Bard": {
+  "counters": [
+   "Leona",
+   "Nautilus",
+   "Blitzcrank",
+   "Rell",
+   "Alistar"
+  ],
+  "good_against": [
+   "Yuumi",
+   "Soraka",
+   "Sona",
+   "Janna"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Bel'Veth": {
+  "counters": [],
+  "good_against": [],
+  "lanes": []
+ },
+ "Blitzcrank": {
+  "counters": [
+   "Morgana",
+   "Sivir",
+   "Ezreal",
+   "Leona",
+   "Braum"
+  ],
+  "good_against": [
+   "Sona",
+   "Soraka",
+   "Yuumi",
+   "Lux"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Brand": {
+  "counters": [
+   "Xerath",
+   "VelKoz",
+   "Morgana",
+   "Zyra",
+   "Blitzcrank",
+   "Olaf",
+   "LeeSin",
+   "Fizz",
+   "Zed"
+  ],
+  "good_against": [
+   "Nautilus",
+   "Leona",
+   "Alistar",
+   "Thresh",
+   "Sejuani",
+   "Amumu",
+   "Rammus"
+  ],
+  "lanes": [
+   "SUP",
+   "MID",
+   "JNG"
+  ]
+ },
+ "Braum": {
+  "counters": [
+   "Zyra",
+   "Brand",
+   "Karma",
+   "Senna",
+   "VelKoz"
+  ],
+  "good_against": [
+   "Leona",
+   "Alistar",
+   "Rakan",
+   "Thresh"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Briar": {
+  "counters": [
+   "Rammus",
+   "Amumu",
+   "Warwick",
+   "Elise",
+   "LeeSin"
+  ],
+  "good_against": [
+   "Karthus",
+   "Evelynn",
+   "Lillia",
+   "Nidalee"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Caitlyn": {
+  "counters": [
+   "Sivir",
+   "Samira",
+   "Draven",
+   "Vayne",
+   "Jinx"
+  ],
+  "good_against": [
+   "Aphelios",
+   "KogMaw",
+   "Ezreal",
+   "Varus"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Camille": {
+  "counters": [
+   "Jax",
+   "Renekton",
+   "Darius",
+   "Fiora",
+   "Mordekaiser"
+  ],
+  "good_against": [
+   "Gangplank",
+   "Gnar",
+   "Jayce",
+   "Kayle",
+   "Yunara"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Cassiopeia": {
+  "counters": [
+   "Xerath",
+   "Syndra",
+   "Fizz",
+   "Zed",
+   "LeBlanc"
+  ],
+  "good_against": [
+   "Vladimir",
+   "Ryze",
+   "Viktor",
+   "Azir"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Cho'Gath": {
+  "counters": [],
+  "good_against": [],
+  "lanes": []
+ },
+ "Corki": {
+  "counters": [
+   "Kassadin",
+   "Yasuo",
+   "Irelia",
+   "Fizz",
+   "Syndra"
+  ],
+  "good_against": [
+   "TwistedFate",
+   "Malzahar",
+   "Viktor"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Darius": {
+  "counters": [
+   "Quinn",
+   "Vayne",
+   "Kennen",
+   "Kayle",
+   "Gnar"
+  ],
+  "good_against": [
+   "Nasus",
+   "Garen",
+   "Sion",
+   "DrMundo",
+   "Ornn"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Diana": {
+  "counters": [
+   "Morgana",
+   "Galio",
+   "Lissandra",
+   "Cassiopeia",
+   "Annie"
+  ],
+  "good_against": [
+   "Karthus",
+   "Veigar",
+   "Xerath",
+   "Ziggs"
+  ],
+  "lanes": [
+   "JNG",
+   "MID"
+  ]
+ },
+ "Dr. Mundo": {
+  "counters": [],
+  "good_against": [],
+  "lanes": []
+ },
+ "Draven": {
+  "counters": [
+   "Caitlyn",
+   "Ezreal",
+   "Vayne",
+   "Tristana",
+   "Nilah"
+  ],
+  "good_against": [
+   "Ashe",
+   "Jinx",
+   "KogMaw",
+   "Aphelios"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Ekko": {
+  "counters": [
+   "Elise",
+   "LeeSin",
+   "Nidalee",
+   "Vi",
+   "RekSai"
+  ],
+  "good_against": [
+   "Karthus",
+   "Amumu",
+   "Sejuani",
+   "Shyvana"
+  ],
+  "lanes": [
+   "JNG",
+   "MID"
+  ]
+ },
+ "Elise": {
+  "counters": [
+   "Warwick",
+   "Vi",
+   "Graves",
+   "Nocturne",
+   "Udyr"
+  ],
+  "good_against": [
+   "Ekko",
+   "Amumu",
+   "Sejuani",
+   "Karthus"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Evelynn": {
+  "counters": [
+   "LeeSin",
+   "Rengar",
+   "Warwick",
+   "Elise",
+   "Nidalee"
+  ],
+  "good_against": [
+   "Amumu",
+   "Sejuani",
+   "Karthus",
+   "Shyvana"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Ezreal": {
+  "counters": [
+   "Draven",
+   "Lucian",
+   "KaiSa",
+   "Samira",
+   "Nilah"
+  ],
+  "good_against": [
+   "Ashe",
+   "Jinx",
+   "Aphelios"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Fiddlesticks": {
+  "counters": [
+   "LeeSin",
+   "Graves",
+   "Nidalee",
+   "Kha'Zix",
+   "Kindred"
+  ],
+  "good_against": [
+   "Amumu",
+   "Sejuani",
+   "Rammus",
+   "MasterYi"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Fiora": {
+  "counters": [
+   "Malphite",
+   "Kennen",
+   "Quinn",
+   "Vayne",
+   "Singed"
+  ],
+  "good_against": [
+   "Aatrox",
+   "Darius",
+   "Garen",
+   "ChoGath",
+   "Ornn",
+   "Yunara"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Fizz": {
+  "counters": [
+   "Galio",
+   "Lissandra",
+   "Kassadin",
+   "Malzahar",
+   "Annie"
+  ],
+  "good_against": [
+   "Lux",
+   "Xerath",
+   "Veigar",
+   "AurelionSol",
+   "Viktor"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Galio": {
+  "counters": [
+   "Kassadin",
+   "Vladimir",
+   "Vayne",
+   "Fiora",
+   "Sylas"
+  ],
+  "good_against": [
+   "Akali",
+   "Fizz",
+   "Katarina",
+   "Diana",
+   "LeBlanc"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Gangplank": {
+  "counters": [
+   "Irelia",
+   "Camille",
+   "Lucian",
+   "Riven",
+   "Fiora"
+  ],
+  "good_against": [
+   "Nasus",
+   "Sion",
+   "Ornn",
+   "Malphite"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Garen": {
+  "counters": [
+   "Vayne",
+   "Quinn",
+   "Kayle",
+   "Camille",
+   "Gwen"
+  ],
+  "good_against": [
+   "Nasus",
+   "Sion",
+   "DrMundo",
+   "Mordekaiser"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Gnar": {
+  "counters": [
+   "Irelia",
+   "Camille",
+   "Fiora",
+   "Riven",
+   "Yasuo"
+  ],
+  "good_against": [
+   "Darius",
+   "Garen",
+   "Sion",
+   "Ornn",
+   "Malphite"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Gragas": {
+  "counters": [
+   "Cassiopeia",
+   "Syndra",
+   "Xerath",
+   "Anivia",
+   "Vladimir"
+  ],
+  "good_against": [
+   "Katarina",
+   "Yasuo",
+   "Fizz",
+   "Akali"
+  ],
+  "lanes": [
+   "MID",
+   "JNG",
+   "TOP"
+  ]
+ },
+ "Graves": {
+  "counters": [
+   "Rammus",
+   "Amumu",
+   "Warwick",
+   "Vi",
+   "Elise"
+  ],
+  "good_against": [
+   "Nidalee",
+   "Evelynn",
+   "Karthus",
+   "Fiddlesticks"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Gwen": {
+  "counters": [
+   "Irelia",
+   "Renekton",
+   "Riven",
+   "Darius",
+   "Olaf"
+  ],
+  "good_against": [
+   "Malphite",
+   "Ornn",
+   "DrMundo",
+   "ChoGath"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Hecarim": {
+  "counters": [
+   "Rammus",
+   "Amumu",
+   "Warwick",
+   "LeeSin",
+   "Lillia"
+  ],
+  "good_against": [
+   "Karthus",
+   "Shyvana",
+   "MasterYi"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Heimerdinger": {
+  "counters": [
+   "Syndra",
+   "Xerath",
+   "VelKoz",
+   "Ziggs",
+   "Irelia"
+  ],
+  "good_against": [
+   "Yasuo",
+   "Yone",
+   "Nasus",
+   "Sion"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Hwei": {
+  "counters": [
+   "Fizz",
+   "Zed",
+   "Katarina",
+   "Yasuo",
+   "LeBlanc"
+  ],
+  "good_against": [
+   "Viktor",
+   "Malzahar",
+   "TwistedFate",
+   "Ryze"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Illaoi": {
+  "counters": [
+   "Vayne",
+   "Quinn",
+   "Mordekaiser",
+   "Kayle",
+   "Tryndamere"
+  ],
+  "good_against": [
+   "Garen",
+   "Darius",
+   "Sion",
+   "Ornn"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Irelia": {
+  "counters": [
+   "Tryndamere",
+   "Volibear",
+   "Renekton",
+   "Sett",
+   "Warwick"
+  ],
+  "good_against": [
+   "Gangplank",
+   "Gnar",
+   "Kennen",
+   "Azir",
+   "Yunara"
+  ],
+  "lanes": [
+   "TOP",
+   "MID"
+  ]
+ },
+ "Ivern": {
+  "counters": [
+   "LeeSin",
+   "Kha'Zix",
+   "Rengar",
+   "Nidalee",
+   "Graves"
+  ],
+  "good_against": [
+   "Amumu",
+   "Sejuani",
+   "Rammus",
+   "Zac"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Janna": {
+  "counters": [
+   "Blitzcrank",
+   "Nautilus",
+   "Zyra",
+   "Brand",
+   "VelKoz"
+  ],
+  "good_against": [
+   "Leona",
+   "Alistar",
+   "Thresh",
+   "Rakan"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Jarvan IV": {
+  "counters": [],
+  "good_against": [],
+  "lanes": []
+ },
+ "Jax": {
+  "counters": [
+   "Malphite",
+   "Kennen",
+   "Quinn",
+   "Teemo",
+   "Akali"
+  ],
+  "good_against": [
+   "Camille",
+   "Fiora",
+   "Tryndamere",
+   "Irelia"
+  ],
+  "lanes": [
+   "TOP",
+   "JNG"
+  ]
+ },
+ "Jayce": {
+  "counters": [
+   "Irelia",
+   "Malphite",
+   "Wukong",
+   "Camille",
+   "Riven"
+  ],
+  "good_against": [
+   "Gangplank",
+   "Nasus",
+   "Sion",
+   "ChoGath"
+  ],
+  "lanes": [
+   "TOP",
+   "JNG"
+  ]
+ },
+ "Jhin": {
+  "counters": [
+   "Samira",
+   "Draven",
+   "Lucian",
+   "KaiSa",
+   "Vayne"
+  ],
+  "good_against": [
+   "Ezreal",
+   "KogMaw",
+   "Ashe"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Jinx": {
+  "counters": [
+   "Draven",
+   "Lucian",
+   "Tristana",
+   "Samira",
+   "KaiSa"
+  ],
+  "good_against": [
+   "Ezreal",
+   "Ashe",
+   "KogMaw",
+   "Varus"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "K'Sante": {
+  "counters": [],
+  "good_against": [],
+  "lanes": []
+ },
+ "Kai'Sa": {
+  "counters": [],
+  "good_against": [],
+  "lanes": []
+ },
+ "Kalista": {
+  "counters": [
+   "Ashe",
+   "MissFortune",
+   "Varus",
+   "Caitlyn",
+   "Jhin"
+  ],
+  "good_against": [
+   "Ezreal",
+   "KogMaw",
+   "Twitch"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Karma": {
+  "counters": [
+   "Nautilus",
+   "Leona",
+   "Blitzcrank",
+   "Rell",
+   "Alistar"
+  ],
+  "good_against": [
+   "Yuumi",
+   "Sona",
+   "Soraka",
+   "Braum"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Karthus": {
+  "counters": [
+   "LeeSin",
+   "Kha'Zix",
+   "Elise",
+   "Nidalee",
+   "Rengar"
+  ],
+  "good_against": [
+   "Amumu",
+   "Sejuani",
+   "Shyvana",
+   "Rammus"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Kassadin": {
+  "counters": [
+   "Talon",
+   "Zed",
+   "Pantheon",
+   "Lucian",
+   "Renekton",
+   "Yunara"
+  ],
+  "good_against": [
+   "Ahri",
+   "Lux",
+   "Xerath",
+   "Viktor",
+   "AurelionSol"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Katarina": {
+  "counters": [
+   "Galio",
+   "Annie",
+   "Kassadin",
+   "Malzahar",
+   "Lissandra"
+  ],
+  "good_against": [
+   "Veigar",
+   "TwistedFate",
+   "Xerath",
+   "Ziggs"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Kayle": {
+  "counters": [
+   "Irelia",
+   "Camille",
+   "Riven",
+   "Pantheon",
+   "Renekton"
+  ],
+  "good_against": [
+   "Nasus",
+   "Malphite",
+   "Sion",
+   "Ornn",
+   "ChoGath"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Kayn": {
+  "counters": [
+   "Rammus",
+   "LeeSin",
+   "Elise",
+   "Warwick",
+   "Nidalee"
+  ],
+  "good_against": [
+   "Amumu",
+   "Sejuani",
+   "Karthus",
+   "Shyvana"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Kennen": {
+  "counters": [
+   "Irelia",
+   "Yasuo",
+   "Sylas",
+   "Vladimir",
+   "Camille"
+  ],
+  "good_against": [
+   "Darius",
+   "Garen",
+   "Aatrox",
+   "Jax"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Kha'Zix": {
+  "counters": [
+   "Rammus",
+   "Warwick",
+   "LeeSin",
+   "Elise",
+   "Graves"
+  ],
+  "good_against": [
+   "Karthus",
+   "Evelynn",
+   "Fiddlesticks",
+   "Nidalee"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Kindred": {
+  "counters": [
+   "Warwick",
+   "Vi",
+   "LeeSin",
+   "Graves",
+   "Elise"
+  ],
+  "good_against": [
+   "Amumu",
+   "Sejuani",
+   "Karthus",
+   "Fiddlesticks"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Kled": {
+  "counters": [
+   "Fiora",
+   "Vayne",
+   "Quinn",
+   "Kennen",
+   "Kayle"
+  ],
+  "good_against": [
+   "Gangplank",
+   "Sion",
+   "Ornn",
+   "Nasus"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Kog'Maw": {
+  "counters": [],
+  "good_against": [],
+  "lanes": []
+ },
+ "LeBlanc": {
+  "counters": [
+   "Galio",
+   "Kassadin",
+   "Malzahar",
+   "Lissandra",
+   "Annie"
+  ],
+  "good_against": [
+   "Xerath",
+   "Lux",
+   "VelKoz",
+   "Viktor",
+   "AurelionSol"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Lee Sin": {
+  "counters": [],
+  "good_against": [],
+  "lanes": []
+ },
+ "Leona": {
+  "counters": [
+   "Morgana",
+   "Janna",
+   "Braum",
+   "Alistar",
+   "Taric"
+  ],
+  "good_against": [
+   "Sona",
+   "Soraka",
+   "Yuumi",
+   "Lux",
+   "Thresh"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Lillia": {
+  "counters": [
+   "Elise",
+   "Nidalee",
+   "LeeSin",
+   "Kha'Zix",
+   "Graves"
+  ],
+  "good_against": [
+   "Amumu",
+   "Sejuani",
+   "Rammus",
+   "Shyvana"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Lissandra": {
+  "counters": [
+   "Kassadin",
+   "Xerath",
+   "VelKoz",
+   "Syndra",
+   "Azir"
+  ],
+  "good_against": [
+   "Fizz",
+   "Katarina",
+   "Akali",
+   "Yasuo",
+   "Yone"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Lucian": {
+  "counters": [
+   "Vayne",
+   "Jinx",
+   "Sivir",
+   "KaiSa",
+   "Nilah"
+  ],
+  "good_against": [
+   "Ezreal",
+   "KogMaw",
+   "Ashe",
+   "Aphelios"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Lulu": {
+  "counters": [
+   "Zyra",
+   "Brand",
+   "Nautilus",
+   "Leona",
+   "Blitzcrank"
+  ],
+  "good_against": [
+   "Thresh",
+   "Alistar",
+   "Rakan",
+   "Pyke"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Lux": {
+  "counters": [
+   "Fizz",
+   "Zed",
+   "Yasuo",
+   "Kassadin",
+   "LeBlanc",
+   "Pyke",
+   "Blitzcrank",
+   "Nautilus",
+   "Thresh",
+   "Senna"
+  ],
+  "good_against": [
+   "Veigar",
+   "TwistedFate",
+   "Viktor",
+   "Malzahar",
+   "Sona",
+   "Soraka",
+   "Yuumi",
+   "Janna"
+  ],
+  "lanes": [
+   "MID",
+   "SUP"
+  ]
+ },
+ "Malphite": {
+  "counters": [
+   "Sylas",
+   "Gwen",
+   "Mordekaiser",
+   "DrMundo",
+   "Darius"
+  ],
+  "good_against": [
+   "Jax",
+   "Fiora",
+   "Yasuo",
+   "Yone",
+   "Tryndamere"
+  ],
+  "lanes": [
+   "TOP",
+   "JNG"
+  ]
+ },
+ "Malzahar": {
+  "counters": [
+   "Kassadin",
+   "Xerath",
+   "VelKoz",
+   "Syndra",
+   "Anivia"
+  ],
+  "good_against": [
+   "Fizz",
+   "Katarina",
+   "Akali",
+   "LeBlanc",
+   "Yasuo"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Maokai": {
+  "counters": [
+   "Fiora",
+   "Vayne",
+   "Gwen",
+   "Mordekaiser",
+   "Olaf",
+   "Brand",
+   "Zyra",
+   "Lux",
+   "Lulu",
+   "Sylas"
+  ],
+  "good_against": [
+   "Malphite",
+   "Sion",
+   "Ornn",
+   "Leona",
+   "Nautilus",
+   "Thresh",
+   "MasterYi",
+   "LeeSin"
+  ],
+  "lanes": [
+   "SUP",
+   "JNG",
+   "TOP"
+  ]
+ },
+ "Master Yi": {
+  "counters": [],
+  "good_against": [],
+  "lanes": []
+ },
+ "Mel": {
+  "counters": [
+   "Fizz",
+   "Zed",
+   "Kassadin",
+   "LeBlanc",
+   "Yasuo"
+  ],
+  "good_against": [
+   "Viktor",
+   "TwistedFate",
+   "Malzahar"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Milio": {
+  "counters": [
+   "Nautilus",
+   "Leona",
+   "Blitzcrank",
+   "Rell",
+   "Alistar"
+  ],
+  "good_against": [
+   "Yuumi",
+   "Soraka",
+   "Sona",
+   "Janna"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Miss Fortune": {
+  "counters": [],
+  "good_against": [],
+  "lanes": []
+ },
+ "Mordekaiser": {
+  "counters": [
+   "Fiora",
+   "Vayne",
+   "Olaf",
+   "Tryndamere",
+   "Gwen"
+  ],
+  "good_against": [
+   "Garen",
+   "Malphite",
+   "Sion",
+   "Nasus",
+   "Ornn"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Morgana": {
+  "counters": [
+   "Xerath",
+   "Zilean",
+   "VelKoz",
+   "Lux",
+   "Brand",
+   "Fizz",
+   "Zed",
+   "Katarina",
+   "Olaf",
+   "LeeSin"
+  ],
+  "good_against": [
+   "Leona",
+   "Nautilus",
+   "Blitzcrank",
+   "Thresh",
+   "Alistar"
+  ],
+  "lanes": [
+   "SUP",
+   "MID",
+   "JNG"
+  ]
+ },
+ "Naafiri": {
+  "counters": [
+   "Annie",
+   "Malzahar",
+   "Lissandra",
+   "Renekton",
+   "Pantheon"
+  ],
+  "good_against": [
+   "Xerath",
+   "Lux",
+   "VelKoz",
+   "TwistedFate"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Nami": {
+  "counters": [
+   "Leona",
+   "Nautilus",
+   "Blitzcrank",
+   "Rell",
+   "Alistar"
+  ],
+  "good_against": [
+   "Yuumi",
+   "Soraka",
+   "Sona",
+   "Braum"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Nasus": {
+  "counters": [
+   "Darius",
+   "Gnar",
+   "Quinn",
+   "Vayne",
+   "Teemo"
+  ],
+  "good_against": [
+   "Malphite",
+   "Sion",
+   "Ornn",
+   "TahmKench"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Nautilus": {
+  "counters": [
+   "Morgana",
+   "Braum",
+   "Janna",
+   "Alistar",
+   "Taric"
+  ],
+  "good_against": [
+   "Sona",
+   "Soraka",
+   "Yuumi",
+   "Lux",
+   "Pyke"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Neeko": {
+  "counters": [
+   "Xerath",
+   "VelKoz",
+   "Lux",
+   "Syndra",
+   "Zed"
+  ],
+  "good_against": [
+   "Katarina",
+   "Akali",
+   "Yasuo",
+   "Yone"
+  ],
+  "lanes": [
+   "MID",
+   "SUP"
+  ]
+ },
+ "Nidalee": {
+  "counters": [
+   "Warwick",
+   "Vi",
+   "Graves",
+   "Nocturne",
+   "Udyr"
+  ],
+  "good_against": [
+   "Karthus",
+   "Amumu",
+   "Sejuani",
+   "Shyvana"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Nilah": {
+  "counters": [
+   "Caitlyn",
+   "Ashe",
+   "Varus",
+   "Jhin",
+   "MissFortune"
+  ],
+  "good_against": [
+   "Ezreal",
+   "KogMaw",
+   "Draven"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Nocturne": {
+  "counters": [
+   "Rammus",
+   "Warwick",
+   "LeeSin",
+   "Vi",
+   "Elise"
+  ],
+  "good_against": [
+   "Karthus",
+   "Evelynn",
+   "Fiddlesticks",
+   "Nidalee"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Nunu e Willump": {
+  "counters": [],
+  "good_against": [],
+  "lanes": []
+ },
+ "Olaf": {
+  "counters": [
+   "Vayne",
+   "Quinn",
+   "Kennen",
+   "Kayle",
+   "Gnar"
+  ],
+  "good_against": [
+   "DrMundo",
+   "Mordekaiser",
+   "Sion",
+   "Ornn"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Orianna": {
+  "counters": [
+   "Fizz",
+   "Zed",
+   "Kassadin",
+   "LeBlanc",
+   "Yasuo"
+  ],
+  "good_against": [
+   "Viktor",
+   "Malzahar",
+   "TwistedFate",
+   "Ryze"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Ornn": {
+  "counters": [
+   "Fiora",
+   "Vayne",
+   "Gwen",
+   "Mordekaiser",
+   "Darius"
+  ],
+  "good_against": [
+   "Malphite",
+   "Sion",
+   "Maokai"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Pantheon": {
+  "counters": [
+   "Malphite",
+   "Shen",
+   "Ornn",
+   "Sion",
+   "TahmKench",
+   "Lissandra",
+   "Malzahar",
+   "Annie",
+   "Morgana",
+   "Janna",
+   "Lulu"
+  ],
+  "good_against": [
+   "Kassadin",
+   "Kayle",
+   "Gangplank",
+   "Nasus",
+   "Katarina",
+   "Yasuo",
+   "Pyke"
+  ],
+  "lanes": [
+   "TOP",
+   "JNG",
+   "MID",
+   "SUP"
+  ]
+ },
+ "Poppy": {
+  "counters": [
+   "Mordekaiser",
+   "Darius",
+   "Vayne",
+   "Gwen",
+   "Singed"
+  ],
+  "good_against": [
+   "Irelia",
+   "Camille",
+   "Riven",
+   "LeeSin"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Pyke": {
+  "counters": [
+   "Leona",
+   "Nautilus",
+   "Alistar",
+   "Braum",
+   "Rell"
+  ],
+  "good_against": [
+   "Sona",
+   "Soraka",
+   "Yuumi",
+   "Janna"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Qiyana": {
+  "counters": [
+   "Galio",
+   "Annie",
+   "Malzahar",
+   "Lissandra",
+   "Renekton"
+  ],
+  "good_against": [
+   "Xerath",
+   "Lux",
+   "VelKoz",
+   "TwistedFate",
+   "Viktor"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Quinn": {
+  "counters": [
+   "Malphite",
+   "Irelia",
+   "Camille",
+   "Akali",
+   "Kennen"
+  ],
+  "good_against": [
+   "Darius",
+   "Garen",
+   "Nasus",
+   "Illaoi",
+   "Aatrox"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Rakan": {
+  "counters": [
+   "Morgana",
+   "Janna",
+   "Braum",
+   "Alistar",
+   "Zyra"
+  ],
+  "good_against": [
+   "Sona",
+   "Soraka",
+   "Yuumi",
+   "Lux"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Rammus": {
+  "counters": [
+   "Lillia",
+   "Amumu",
+   "Shyvana",
+   "Olaf",
+   "Morgana"
+  ],
+  "good_against": [
+   "MasterYi",
+   "Kha'Zix",
+   "LeeSin",
+   "Graves",
+   "Nocturne"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Rek'Sai": {
+  "counters": [],
+  "good_against": [],
+  "lanes": []
+ },
+ "Rell": {
+  "counters": [
+   "Morgana",
+   "Janna",
+   "Braum",
+   "Zyra",
+   "Brand"
+  ],
+  "good_against": [
+   "Sona",
+   "Soraka",
+   "Yuumi",
+   "Thresh",
+   "Pyke"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Renata Glasc": {
+  "counters": [
+   "Leona",
+   "Nautilus",
+   "Blitzcrank",
+   "Alistar",
+   "Rell"
+  ],
+  "good_against": [
+   "Yuumi",
+   "Soraka",
+   "Sona",
+   "Braum"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Renekton": {
+  "counters": [
+   "Quinn",
+   "Vayne",
+   "Kayle",
+   "Volibear",
+   "Illaoi"
+  ],
+  "good_against": [
+   "Gangplank",
+   "Nasus",
+   "Kassadin",
+   "Irelia"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Rengar": {
+  "counters": [
+   "Rammus",
+   "Warwick",
+   "LeeSin",
+   "Vi",
+   "Nocturne"
+  ],
+  "good_against": [
+   "Karthus",
+   "Evelynn",
+   "Nidalee",
+   "Fiddlesticks"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Riven": {
+  "counters": [
+   "Renekton",
+   "Poppy",
+   "Malphite",
+   "Quinn",
+   "Kennen"
+  ],
+  "good_against": [
+   "Gangplank",
+   "Gnar",
+   "Jayce",
+   "Kayle"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Rumble": {
+  "counters": [
+   "Ornn",
+   "Sylas",
+   "Galio",
+   "Irelia",
+   "Gangplank"
+  ],
+  "good_against": [
+   "Malphite",
+   "Sion",
+   "Nasus",
+   "DrMundo"
+  ],
+  "lanes": [
+   "TOP",
+   "MID"
+  ]
+ },
+ "Ryze": {
+  "counters": [
+   "Fizz",
+   "Zed",
+   "Kassadin",
+   "LeBlanc",
+   "Syndra"
+  ],
+  "good_against": [
+   "Vladimir",
+   "TwistedFate",
+   "Viktor"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Samira": {
+  "counters": [
+   "Caitlyn",
+   "Ashe",
+   "Varus",
+   "Jhin",
+   "Tristana"
+  ],
+  "good_against": [
+   "Ezreal",
+   "KogMaw",
+   "Jinx",
+   "MissFortune"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Sejuani": {
+  "counters": [
+   "Lillia",
+   "Graves",
+   "Kindred",
+   "Nidalee",
+   "Kha'Zix"
+  ],
+  "good_against": [
+   "MasterYi",
+   "Shyvana",
+   "Amumu"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Senna": {
+  "counters": [
+   "Leona",
+   "Nautilus",
+   "Blitzcrank",
+   "Rell",
+   "Alistar"
+  ],
+  "good_against": [
+   "Braum",
+   "Janna",
+   "Yuumi",
+   "Lulu"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Seraphine": {
+  "counters": [
+   "Fizz",
+   "Zed",
+   "LeBlanc",
+   "Blitzcrank",
+   "Nautilus"
+  ],
+  "good_against": [
+   "Yuumi",
+   "Soraka",
+   "Braum"
+  ],
+  "lanes": [
+   "SUP",
+   "MID"
+  ]
+ },
+ "Sett": {
+  "counters": [
+   "Vayne",
+   "Quinn",
+   "Kennen",
+   "Kayle",
+   "Gwen"
+  ],
+  "good_against": [
+   "Irelia",
+   "Camille",
+   "Riven",
+   "Garen"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Shaco": {
+  "counters": [
+   "LeeSin",
+   "Warwick",
+   "Vi",
+   "Rengar",
+   "Nocturne"
+  ],
+  "good_against": [
+   "Karthus",
+   "Amumu",
+   "Sejuani",
+   "Evelynn"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Shen": {
+  "counters": [
+   "Mordekaiser",
+   "Darius",
+   "Vayne",
+   "Gwen",
+   "Singed",
+   "Brand",
+   "Zyra",
+   "Lux",
+   "Lulu",
+   "Senna",
+   "Janna"
+  ],
+  "good_against": [
+   "Riven",
+   "Fiora",
+   "Camille",
+   "Gangplank",
+   "Leona",
+   "Nautilus",
+   "Thresh",
+   "Blitzcrank"
+  ],
+  "lanes": [
+   "TOP",
+   "SUP"
+  ]
+ },
+ "Shyvana": {
+  "counters": [
+   "LeeSin",
+   "Elise",
+   "Nidalee",
+   "Kha'Zix",
+   "Graves"
+  ],
+  "good_against": [
+   "Amumu",
+   "Sejuani",
+   "Rammus"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Singed": {
+  "counters": [
+   "Vayne",
+   "Quinn",
+   "Kayle",
+   "Gnar",
+   "Kennen"
+  ],
+  "good_against": [
+   "Nasus",
+   "Sion",
+   "Malphite",
+   "Poppy"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Sion": {
+  "counters": [
+   "Fiora",
+   "Vayne",
+   "Gwen",
+   "Mordekaiser",
+   "Darius"
+  ],
+  "good_against": [
+   "Malphite",
+   "Ornn",
+   "Maokai"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Sivir": {
+  "counters": [
+   "Draven",
+   "Lucian",
+   "KaiSa",
+   "Samira",
+   "Nilah"
+  ],
+  "good_against": [
+   "Ashe",
+   "KogMaw",
+   "Ezreal",
+   "Jinx"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Skarner": {
+  "counters": [
+   "Lillia",
+   "Graves",
+   "Kindred",
+   "Nidalee",
+   "Olaf"
+  ],
+  "good_against": [
+   "MasterYi",
+   "Shyvana",
+   "Amumu"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Smolder": {
+  "counters": [
+   "Draven",
+   "Lucian",
+   "Samira",
+   "KaiSa",
+   "Tristana"
+  ],
+  "good_against": [
+   "Ezreal",
+   "Ashe",
+   "Jinx"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Sona": {
+  "counters": [
+   "Leona",
+   "Nautilus",
+   "Blitzcrank",
+   "Rell",
+   "Alistar"
+  ],
+  "good_against": [
+   "Yuumi",
+   "Braum",
+   "Taric"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Soraka": {
+  "counters": [
+   "Leona",
+   "Nautilus",
+   "Blitzcrank",
+   "Rell",
+   "Pyke"
+  ],
+  "good_against": [
+   "Yuumi",
+   "Braum",
+   "Taric",
+   "Janna"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Swain": {
+  "counters": [
+   "Sylas",
+   "Kassadin",
+   "Irelia",
+   "Yone",
+   "Yasuo",
+   "Vayne",
+   "Fiora",
+   "Tristana",
+   "Samira",
+   "Zyra",
+   "Brand",
+   "Lux"
+  ],
+  "good_against": [
+   "Alistar",
+   "Leona",
+   "Thresh",
+   "Nautilus",
+   "Maokai",
+   "Sion",
+   "Malphite"
+  ],
+  "lanes": [
+   "SUP",
+   "MID",
+   "BOT",
+   "TOP"
+  ]
+ },
+ "Sylas": {
+  "counters": [
+   "Cassiopeia",
+   "Syndra",
+   "Malzahar",
+   "Anivia",
+   "Lissandra"
+  ],
+  "good_against": [
+   "Galio",
+   "Rumble",
+   "Kennen",
+   "Malphite"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Syndra": {
+  "counters": [
+   "Fizz",
+   "Zed",
+   "Kassadin",
+   "Yasuo",
+   "LeBlanc"
+  ],
+  "good_against": [
+   "Lux",
+   "TwistedFate",
+   "Viktor",
+   "Malzahar",
+   "Azir"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Tahm Kench": {
+  "counters": [],
+  "good_against": [],
+  "lanes": []
+ },
+ "Taliyah": {
+  "counters": [
+   "Fizz",
+   "Zed",
+   "Kassadin",
+   "LeBlanc",
+   "Yasuo"
+  ],
+  "good_against": [
+   "Viktor",
+   "TwistedFate",
+   "Malzahar",
+   "Ryze"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Talon": {
+  "counters": [
+   "Malzahar",
+   "Annie",
+   "Lissandra",
+   "Pantheon",
+   "Renekton"
+  ],
+  "good_against": [
+   "Kassadin",
+   "Xerath",
+   "Lux",
+   "VelKoz",
+   "TwistedFate"
+  ],
+  "lanes": [
+   "MID",
+   "JNG"
+  ]
+ },
+ "Taric": {
+  "counters": [
+   "Zyra",
+   "Brand",
+   "VelKoz",
+   "Morgana",
+   "Karma"
+  ],
+  "good_against": [
+   "Leona",
+   "Nautilus",
+   "Alistar",
+   "Rakan"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Teemo": {
+  "counters": [
+   "Irelia",
+   "Akali",
+   "Yorick",
+   "Pantheon",
+   "Camille"
+  ],
+  "good_against": [
+   "Nasus",
+   "Jax",
+   "Tryndamere",
+   "Garen"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Thresh": {
+  "counters": [
+   "Morgana",
+   "Janna",
+   "Braum",
+   "Zyra",
+   "Karma"
+  ],
+  "good_against": [
+   "Sona",
+   "Soraka",
+   "Yuumi",
+   "Lux"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Tristana": {
+  "counters": [
+   "Draven",
+   "MissFortune",
+   "Caitlyn",
+   "Lucian",
+   "Ashe"
+  ],
+  "good_against": [
+   "KogMaw",
+   "Jinx",
+   "Aphelios",
+   "Ezreal"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Trundle": {
+  "counters": [
+   "Vayne",
+   "Quinn",
+   "Kennen",
+   "Kayle",
+   "Gnar"
+  ],
+  "good_against": [
+   "Sion",
+   "Ornn",
+   "Malphite",
+   "Sejuani"
+  ],
+  "lanes": [
+   "TOP",
+   "JNG"
+  ]
+ },
+ "Tryndamere": {
+  "counters": [
+   "Malphite",
+   "Quinn",
+   "Teemo",
+   "Nasus",
+   "Poppy"
+  ],
+  "good_against": [
+   "Gangplank",
+   "Gnar",
+   "Kayle",
+   "Sion"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Twisted Fate": {
+  "counters": [],
+  "good_against": [],
+  "lanes": []
+ },
+ "Twitch": {
+  "counters": [
+   "Draven",
+   "Lucian",
+   "Caitlyn",
+   "KaiSa",
+   "Tristana"
+  ],
+  "good_against": [
+   "Ezreal",
+   "Ashe",
+   "Jinx"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Udyr": {
+  "counters": [
+   "Lillia",
+   "Graves",
+   "Kindred",
+   "Kha'Zix",
+   "Nidalee"
+  ],
+  "good_against": [
+   "MasterYi",
+   "Shyvana",
+   "Amumu",
+   "Karthus"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Urgot": {
+  "counters": [
+   "Fiora",
+   "Vayne",
+   "Quinn",
+   "Mordekaiser",
+   "Gwen"
+  ],
+  "good_against": [
+   "Nasus",
+   "Sion",
+   "Ornn",
+   "Malphite"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Varus": {
+  "counters": [
+   "Samira",
+   "Draven",
+   "Lucian",
+   "Nilah",
+   "KaiSa"
+  ],
+  "good_against": [
+   "KogMaw",
+   "Ashe",
+   "Ezreal",
+   "Jinx"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Vayne": {
+  "counters": [
+   "Draven",
+   "Caitlyn",
+   "Lucian",
+   "MissFortune",
+   "Tristana"
+  ],
+  "good_against": [
+   "Sion",
+   "Ornn",
+   "Malphite",
+   "DrMundo",
+   "ChoGath"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Veigar": {
+  "counters": [
+   "Fizz",
+   "Zed",
+   "Kassadin",
+   "LeBlanc",
+   "Xerath",
+   "Yunara"
+  ],
+  "good_against": [
+   "TwistedFate",
+   "Viktor",
+   "Malzahar"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Vel'Koz": {
+  "counters": [],
+  "good_against": [],
+  "lanes": []
+ },
+ "Vex": {
+  "counters": [
+   "Xerath",
+   "VelKoz",
+   "Syndra",
+   "Cassiopeia",
+   "Azir"
+  ],
+  "good_against": [
+   "Katarina",
+   "Yasuo",
+   "Yone",
+   "Akali",
+   "Fizz"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Vi": {
+  "counters": [
+   "Rammus",
+   "LeeSin",
+   "Graves",
+   "Elise",
+   "Warwick"
+  ],
+  "good_against": [
+   "Karthus",
+   "Evelynn",
+   "Amumu",
+   "Sejuani"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Viego": {
+  "counters": [
+   "Rammus",
+   "Warwick",
+   "LeeSin",
+   "Elise",
+   "Vi"
+  ],
+  "good_against": [
+   "Karthus",
+   "Evelynn",
+   "Amumu",
+   "Shyvana"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Viktor": {
+  "counters": [
+   "Fizz",
+   "Zed",
+   "Kassadin",
+   "LeBlanc",
+   "Irelia"
+  ],
+  "good_against": [
+   "TwistedFate",
+   "Malzahar",
+   "Ryze"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Vladimir": {
+  "counters": [
+   "Anivia",
+   "Cassiopeia",
+   "Malzahar",
+   "Ryze",
+   "Orianna",
+   "Yunara"
+  ],
+  "good_against": [
+   "Galio",
+   "Garen",
+   "Malphite",
+   "Sion"
+  ],
+  "lanes": [
+   "MID",
+   "TOP"
+  ]
+ },
+ "Volibear": {
+  "counters": [
+   "Vayne",
+   "Quinn",
+   "Kayle",
+   "Lillia",
+   "Gwen"
+  ],
+  "good_against": [
+   "Irelia",
+   "Riven",
+   "Camille",
+   "Fiora"
+  ],
+  "lanes": [
+   "TOP",
+   "JNG"
+  ]
+ },
+ "Warwick": {
+  "counters": [
+   "Olaf",
+   "Graves",
+   "Lillia",
+   "Kindred",
+   "Rammus"
+  ],
+  "good_against": [
+   "MasterYi",
+   "Kha'Zix",
+   "Evelynn",
+   "Nidalee"
+  ],
+  "lanes": [
+   "JNG",
+   "TOP"
+  ]
+ },
+ "Wukong": {
+  "counters": [
+   "Darius",
+   "Malphite",
+   "Garen",
+   "Renekton",
+   "Volibear"
+  ],
+  "good_against": [
+   "Jayce",
+   "Gangplank",
+   "Gnar",
+   "Kayle"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Xayah": {
+  "counters": [
+   "Draven",
+   "Caitlyn",
+   "Lucian",
+   "KaiSa",
+   "Tristana"
+  ],
+  "good_against": [
+   "Ezreal",
+   "KogMaw",
+   "Ashe"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Xerath": {
+  "counters": [
+   "Fizz",
+   "Zed",
+   "Kassadin",
+   "LeBlanc",
+   "Yasuo"
+  ],
+  "good_against": [
+   "Lux",
+   "TwistedFate",
+   "Viktor",
+   "Malzahar",
+   "Azir"
+  ],
+  "lanes": [
+   "MID",
+   "SUP"
+  ]
+ },
+ "Xin Zhao": {
+  "counters": [
+   "Rammus",
+   "Warwick",
+   "Graves",
+   "Vi",
+   "Elise"
+  ],
+  "good_against": [
+   "Karthus",
+   "Evelynn",
+   "Amumu",
+   "Nidalee"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Yasuo": {
+  "counters": [
+   "Malphite",
+   "Renekton",
+   "Pantheon",
+   "Annie",
+   "Rammus"
+  ],
+  "good_against": [
+   "Lux",
+   "Xerath",
+   "TwistedFate",
+   "Orianna",
+   "Viktor",
+   "Yunara"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Yone": {
+  "counters": [
+   "Renekton",
+   "Pantheon",
+   "Sett",
+   "Annie",
+   "Malphite"
+  ],
+  "good_against": [
+   "Viktor",
+   "TwistedFate",
+   "Xerath",
+   "Lux",
+   "Azir"
+  ],
+  "lanes": [
+   "MID",
+   "TOP"
+  ]
+ },
+ "Yorick": {
+  "counters": [
+   "Irelia",
+   "Tryndamere",
+   "Mordekaiser",
+   "Gwen",
+   "Fiora"
+  ],
+  "good_against": [
+   "Nasus",
+   "Sion",
+   "Malphite",
+   "Ornn"
+  ],
+  "lanes": [
+   "TOP"
+  ]
+ },
+ "Yunara": {
+  "counters": [
+   "Draven",
+   "Lucian",
+   "Samira",
+   "Tristana",
+   "Caitlyn"
+  ],
+  "good_against": [
+   "Vayne",
+   "Kog'Maw",
+   "Aphelios",
+   "Jinx",
+   "Twitch"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Yuumi": {
+  "counters": [
+   "Leona",
+   "Nautilus",
+   "Blitzcrank",
+   "Pyke",
+   "Rell"
+  ],
+  "good_against": [
+   "Braum",
+   "Taric"
+  ],
+  "lanes": [
+   "SUP"
+  ]
+ },
+ "Zaahen": {
+  "counters": [
+   "Zed",
+   "Fizz",
+   "Kassadin",
+   "LeBlanc",
+   "Talon"
+  ],
+  "good_against": [
+   "Malzahar",
+   "Viktor",
+   "Orianna",
+   "Lux"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Zac": {
+  "counters": [
+   "Graves",
+   "Kindred",
+   "Nidalee",
+   "Kha'Zix",
+   "Lillia"
+  ],
+  "good_against": [
+   "MasterYi",
+   "Shyvana",
+   "Amumu",
+   "Karthus"
+  ],
+  "lanes": [
+   "JNG"
+  ]
+ },
+ "Zed": {
+  "counters": [
+   "Malzahar",
+   "Lissandra",
+   "Galio",
+   "Annie",
+   "Renekton"
+  ],
+  "good_against": [
+   "Lux",
+   "Xerath",
+   "VelKoz",
+   "Viktor",
+   "TwistedFate",
+   "Yunara"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Zeri": {
+  "counters": [
+   "Draven",
+   "Lucian",
+   "Caitlyn",
+   "Samira",
+   "KaiSa"
+  ],
+  "good_against": [
+   "Ezreal",
+   "Jinx",
+   "KogMaw"
+  ],
+  "lanes": [
+   "BOT"
+  ]
+ },
+ "Ziggs": {
+  "counters": [
+   "Fizz",
+   "Zed",
+   "Kassadin",
+   "LeBlanc",
+   "Yasuo"
+  ],
+  "good_against": [
+   "TwistedFate",
+   "Viktor",
+   "Malzahar"
+  ],
+  "lanes": [
+   "MID",
+   "BOT"
+  ]
+ },
+ "Zilean": {
+  "counters": [
+   "Fizz",
+   "Kassadin",
+   "LeBlanc",
+   "Zed",
+   "Yasuo"
+  ],
+  "good_against": [
+   "Malzahar",
+   "Viktor",
+   "TwistedFate"
+  ],
+  "lanes": [
+   "MID",
+   "SUP"
+  ]
+ },
+ "Zoe": {
+  "counters": [
+   "Fizz",
+   "Zed",
+   "Kassadin",
+   "LeBlanc",
+   "Yasuo"
+  ],
+  "good_against": [
+   "Viktor",
+   "TwistedFate",
+   "Lux",
+   "Xerath"
+  ],
+  "lanes": [
+   "MID"
+  ]
+ },
+ "Zyra": {
+  "counters": [
+   "Leona",
+   "Nautilus",
+   "Blitzcrank",
+   "Alistar",
+   "Rell",
+   "Olaf",
+   "LeeSin",
+   "Fizz",
+   "Zed"
+  ],
+  "good_against": [
+   "Braum",
+   "Thresh",
+   "Yuumi",
+   "Sona",
+   "Soraka",
+   "Sejuani",
+   "Amumu",
+   "Rammus"
+  ],
+  "lanes": [
+   "SUP",
+   "JNG",
+   "MID"
+  ]
+ }
+}

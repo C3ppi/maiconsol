@@ -1,0 +1,32 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>ABSOL — Build</title><meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+:root{color-scheme:dark}body{margin:0;background:#12141b;color:#e8eaf0;font:14px system-ui,sans-serif;padding:14px}
+h1{font-size:16px;margin:0 0 2px}small,.muted{color:#8b91a3}.row{display:flex;gap:6px;flex-wrap:wrap;margin:6px 0 12px;align-items:center}
+.card{background:#1b1e29;border:1px solid #2b3042;border-radius:10px;padding:10px 12px;margin-bottom:10px}
+h2{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:#8b91a3;margin:0 0 6px}
+.ic{width:42px;height:42px;border-radius:8px;background:#0c0e13;border:1px solid #2b3042}.ic.k{width:52px;height:52px;border-radius:50%}
+.it{display:flex;flex-direction:column;align-items:center;width:64px;text-align:center;font-size:11px;gap:3px}
+.arrow{color:#566;font-size:18px}button{background:#2b3042;color:#e8eaf0;border:0;border-radius:8px;padding:6px 10px;cursor:pointer}
+</style></head><body>
+<h1 id="t">Build</h1><small id="s">aguardando seleção de campeões…</small>
+<div id="b"></div>
+<div class="row"><button id="off">Desligar este módulo</button><small id="src"></small></div>
+<script>
+function ipc(c,a){return fetch("/__ipc/"+c,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(a||{})}).then(r=>r.json())}
+function it(x,k){return '<div class="it"><img class="ic'+(k?' k':'')+'" src="'+x.icon+'" alt="" onerror="this.style.visibility=\'hidden\'"><span>'+x.name+'</span></div>'}
+function row(l,arr,k){return arr&&arr.length?'<div class="card"><h2>'+l+'</h2><div class="row">'+arr.map(x=>it(x,k)).join("")+'</div></div>':""}
+function draw(d){
+  document.getElementById("s").textContent=d.status+(d.on?"":" (módulo desligado)");
+  var b=d.build; if(!b){return}
+  document.getElementById("t").textContent="Build — "+b.champion+" "+(b.role||"");
+  var r=b.runes, i=b.items;
+  document.getElementById("b").innerHTML=
+    row("Runa principal — "+(r.tree||""),r.primary,true)+row("Runa secundária",r.secondary,false)+
+    (r.shards&&r.shards.length?'<div class="card"><h2>Fragmentos</h2><div class="muted">'+r.shards.map(x=>x.name).join(" · ")+'</div></div>':"")+
+    row("Inicial",i.start)+row("Botas",i.boots)+row("Itens principais",i.core)+row("Opções depois",i.options);
+  document.getElementById("src").textContent="Fonte: "+b.source;
+}
+function poll(){ipc("get_builds").then(draw).catch(function(){})}
+document.getElementById("off").onclick=function(){ipc("set_extra",{id:"builds_web",on:false}).then(poll)};
+poll();setInterval(poll,2000);
+</script></body></html>

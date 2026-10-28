@@ -1,0 +1,119 @@
+html,
+body {
+  background: transparent !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+}
+.toast.svelte-16p9alo {
+  position: relative;
+  transform-origin: right center;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100vw;
+  height: 100vh;
+  padding: 0 14px 0 18px;
+  box-sizing: border-box;
+  background: var(--surface);
+  overflow: hidden;
+  cursor: pointer;
+  -webkit-user-select: none;
+  user-select: none;
+  transition: background var(--t);
+  --notch-w: 8px;
+  --notch-h: 16px;
+  --notch-y: 42px;
+  clip-path: polygon(
+    0 0,
+    100% 0,
+    100% calc(var(--notch-y) - var(--notch-h) / 2),
+    calc(100% - var(--notch-w)) calc(var(--notch-y) - var(--notch-h) / 2),
+    calc(100% - var(--notch-w)) calc(var(--notch-y) + var(--notch-h) / 2),
+    100% calc(var(--notch-y) + var(--notch-h) / 2),
+    100% 100%,
+    0 100%,
+    0 calc(var(--notch-y) + var(--notch-h) / 2),
+    var(--notch-w) calc(var(--notch-y) + var(--notch-h) / 2),
+    var(--notch-w) calc(var(--notch-y) - var(--notch-h) / 2),
+    0 calc(var(--notch-y) - var(--notch-h) / 2)
+  );
+}
+.toast.svelte-16p9alo:hover {
+  background: var(--bg-2);
+}
+.accent.svelte-16p9alo {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--lime);
+}
+.toast.failed.svelte-16p9alo .accent:where(.svelte-16p9alo) {
+  background: var(--lose);
+}
+.toast.quota.svelte-16p9alo .accent:where(.svelte-16p9alo) {
+  background: var(--gold);
+}
+.logo.svelte-16p9alo {
+  width: 52px;
+  height: auto;
+  margin-bottom: 4px;
+  flex-shrink: 0;
+}
+.body.svelte-16p9alo {
+  position: relative;
+  align-self: flex-start;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+  flex: 1;
+}
+.title.svelte-16p9alo {
+  position: relative;
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  color: var(--text);
+}
+.detail.svelte-16p9alo {
+  font-size: var(--fs-xs);
+  color: var(--text-2);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.detail.hidden-detail.svelte-16p9alo {
+  visibility: hidden;
+}
+.cta.svelte-16p9alo {
+  margin-top: 2px;
+  font-size: var(--fs-xs);
+  font-weight: 500;
+  color: var(--lime);
+}
+.toast.failed.svelte-16p9alo .cta:where(.svelte-16p9alo) {
+  color: var(--lose);
+}
+.toast.quota.svelte-16p9alo .cta:where(.svelte-16p9alo) {
+  color: var(--gold);
+}
+.close.svelte-16p9alo {
+  position: relative;
+  align-self: flex-start;
+  margin-top: 10px;
+  display: flex;
+  background: none;
+  border: none;
+  padding: 0;
+  color: var(--text-2);
+  cursor: pointer;
+  transition: color var(--t);
+}
+.close.svelte-16p9alo:hover {
+  color: var(--lose);
+}

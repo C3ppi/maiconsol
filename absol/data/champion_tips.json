@@ -1,0 +1,713 @@
+{
+ "Aatrox": [
+  "Não esqueça de usar seu ataque básico com sua passiva, boa parte da sua cura, vem dela!",
+  "o  tempo de recarga do seu começa a partir do momento que você usa a primeira ativação, use isso ao seu favor!",
+  "Use seu E logo apos um ataque para dar um segundo ataque mais rapido!"
+ ],
+ "Ahri": [
+  "Seu boneco gira em torno do seu Charm, use com cautela mas não tenha medo de dar all in ao acertar!",
+  "As moitas são suas aliadas, compre pink, fique parado no mato quando não tiver wave para farmar e pegue kills fácilmente!"
+ ],
+ "Akali": [
+  "Evite usar seu W fumaça atoa, ele é seu maior aliado na hora de pegar uma kill!",
+  "Sua fumaça da regen de energia, quando não tiver em perigo use ela para puxar uma wave rapidamente!"
+ ],
+ "Akshan": [
+  "A passiva do seu W rastreia o canalha, use isso para pingar pro seu time onde está o um oponente no mapa sem visão!",
+  "O akshan recupera mana no modo canalha quando está virado para o lado do inimigo!"
+ ],
+ "Alistar": [
+  "Sua ultimate te deixa 50% mais tank já no nível 6, use ela para dar dive no oponente se ver uma brecha!",
+  "Ao empurrar um inimigo próximo a parede, guarde seu Q, pois assim você vai deixar ele sob efeito de controle de grupo por mais tempo!"
+ ],
+ "Ambessa": [
+  "Durante suas habilidades, use comando de movimento ou ataque para ativar o dash curto da passiva e manter a luta fluindo.",
+  "Não gaste sua energia inteira antes de ter certeza de que a troca vai continuar, senão voce entra e não consegue completar o abate."
+ ],
+ "Amumu": [
+  "Não tente pegar sempre muitas pessoas na sua ultimate, é melhor pegar um alvo forte do que tentar acertar todo mundo!",
+  "A cada ataque básico que você recebe, seu E perde meio segundo de tempo de recarga!"
+ ],
+ "Anivia": [
+  "Seu Q pode ser reativado, use isso para atordoar alvos próximos de ti!",
+  "Sua parede pode bloquear caminhos de inimigos e aliados, tenha cautela ao usar!"
+ ],
+ "Annie": [
+  "Sempre que você farmar com seu Q, sua mana é restituída, use isso para farmar e pegar acumulos da passiva!",
+  "Seu escudo também gera um acúmulo da passiva, você pode usar isso para pegar inimigos desprevenidos!"
+ ],
+ "Aphelios": [
+  "Comece gastando sua arma vermelha, a partir disso, sempre gaste sua arma mais antiga sempre!"
+ ],
+ "Ashe": [
+  "Use seu E num ponto futuro, não somente onde você quer revelar, pois onde o pássaro passa ele deixa um rastro de luz!",
+  "Seu W consome muita mana no começo do jogo, evite ficar usando o tempo todo!"
+ ],
+ "Aurelion Sol": [
+  "Jogue com paciencia no early e foque em farmar bem ate suas skills ficarem realmente opressivas.",
+  "O W fica muito melhor quando usado em linha longa ou por cima de terreno, porque facilita DPS e recuo."
+ ],
+ "Aurora": [
+  "Sua passiva recompensa troca estendida; entre, arranque os espiritos e saia antes de tomar a volta completa.",
+  "Dentro do R, reposicionar de um lado para o outro vale mais do que usar tudo de uma vez sem pensar no espacamento."
+ ],
+ "Azir": [
+  "Soldado define seu espaco; se posicionou mal o soldado, a troca quase sempre fica ruim.",
+  "Sua ultimate é sua maior defesa, não foque tanto em usar ela para engajar, mas sim para ficar vivo!"
+ ],
+ "Bard": [
+  "Pegar sinos é muito importante, mas preste atenção na onda de minions antes de abandonar a lane, não prejudique seu atirador!",
+  "Use seus portais na conjuração normal, fica bem melhor de saber onde você vai cair!",
+  "Sua ultimate é igual a uma zhonya em area. Use em torres para divar, para parar adversários em uma luta mas tome cuidado porque ela afeta seu time também!"
+ ],
+ "Bel'Veth": [
+  "Guarde o E para o momento em que voce realmente vai tankar burst ou garantir o execute.",
+  "Sua forma melhorada fica muito mais forte perto de objetivo e luta longa, entao jogue em volta desses timings."
+ ],
+ "Blitzcrank": [
+  "Seu puxão gasta muita mana e tem um tempo de recarga alto, evite usa-lo atoa durante a fase de rotas!",
+  "Seu W causa lentidão em si mesmo depois de passar a ativação, pense nisso antes de ir pra cima!"
+ ],
+ "Brand": [
+  "Sua passiva e metade do campeao, entao pense na ordem das skills para espalhar fogo antes do burst!",
+  "Evite usar seu Q antes do alvo estar sob o efeito da passiva, pois ele só atordoa nessa condição!"
+ ],
+ "Braum": [
+  "Sua passiva ganha lutas cedo; Q mais ataque básico do aliado costuma bastar para vencer troca curta.",
+  "E e W nao servem so para entrar, servem principalmente para negar iniciação e proteger seu carry."
+ ],
+ "Briar": [
+  "Nao use o W no piloto automatico; pense se voce quer continuar a perseguicao ou se precisa segurar a recast pela cura.",
+  "O E pode te salvar de entrar demais, alem de virar pick se empurrar o alvo na parede."
+ ],
+ "Caitlyn": [
+  "Evite gastar todas suas armardilhas, deixe pelo menos uma disponível caso seu suporte acerte algum controle de grupo!",
+  "Quando alguém pisar na sua armadilha, tente sempre que possível usar um Q antes de dar o headshot, pois isso maximizará seu dano!",
+  "Sua rede não tem animação, tente encaixar um combo de E + Q sempre que possível no alvo!"
+ ],
+ "Camille": [
+  "Tenha paciencia com o segundo Q; o dano real é o que muda troca e all in.",
+  "O E fica muito mais forte vindo de fog ou parede lateral do que sendo telegrafado na frente do inimigo."
+ ],
+ "Cassiopeia": [
+  "Evite metralhar seu E sem o alvo estar envenenado, pois sua maior fonte de dano vem dele. Isso serve para o veneno de outros campeões, como Teemo, Singed, Twitch!",
+  "Seu E consome muita mana no início, só use ele repetidamente caso tenha certeza que irá matar!",
+  "O W ganha lutas sozinho contra campeoes dependentes de avanços, entao segure para o momento certo."
+ ],
+ "Cho'Gath": [
+  "Sua ultimate pode garantir objetivos, não pense nela só como um recurso para pegar kills!",
+  "Seu Q é bem lento, tente usar ele fora de visão ou quando o alvo estiver sob controle de grupo!"
+ ],
+ "Corki": [
+  "Evite trocar sem seu E estar disponível, pois ele quebra a armadura do inimigo!",
+  "Tome cuidado ao usar seu W agressivamente, pois ele tem um tempo de recarga alto!",
+  "Seu Q concede visão ao acertar, use isso para verificar moitas!"
+ ],
+ "Darius": [
+  "Seus acumulos da passiva aumentam seu dano base, quando sua passiva estiver stackada, dificilmente você perde trocas!",
+  "Seu W tem a mana recuperada ao farmar um minion, use isso para garantir aquele last hit importante!",
+  "Sua ultimate só da dano se você usar no alvo com acumulos máximo, evite usar antes disso!"
+ ],
+ "Diana": [
+  "Lembre de encaixar ataques entre skills para aproveitar a passiva e limpar mais rapido.",
+  "Nao solte o R cedo demais se o inimigo ainda pode se espalhar; espere o melhor agrupamento possivel."
+ ],
+ "Dr. Mundo": [
+  "Pegue sua passiva sempre que for seguro, porque isso muda muito sua sustentacao e sobrevivencia.",
+  "Nao volta pra base a toa. Limpa camp neutro com o cutelo e segura ate a ultimate te curar de volta."
+ ],
+ "Draven": [
+  "O machado sempre vai cair pra onde você se movimenta depois de jogar, use isso para não perder nenhum machado!",
+  "Seu W pode ser ativado novamente quando você pega um machado, porém isso consome muita mana, tenha calma!",
+  "Quanto mais acúmulos da passiva você tem, mais dano sua ultimate da na execução!"
+ ],
+ "Ekko": [
+  "Use seu W sempre fora da visão do inimigo, pois ele é uma habilidade muito importante, porém prevísivel.",
+  "Seu R é uma ferramenta de outplay e também um jeito de punir ganancia; nao espere sempre o ultimo HP."
+ ],
+ "Elise": [
+  "O rapel serve pra tirar agro de torres, use isso para divar seus oponentes e sair vivo!",
+  "Seu W da forma humana vai seguir o alvo que sofrer o Q da forma aranha, use isso para surpreender seu oponente!",
+  "Elise: Tentar acertar o E da moita, pois o E é uma skill facil de desviar se o inimigo tiver reflexo"
+ ],
+ "Evelynn": [
+  "Paciencia e tudo; aparecer cedo demais antes da camuflagem costuma matar sua pressao no mapa.",
+  "Seu W fica muito melhor vindo de flanco ou target sem visao do que em engage obvia pela frente."
+ ],
+ "Ezreal": [
+  "Sua passiva é sua maior fonte de dano no começo, evite forçar trocas sem stacks dela!",
+  "Seu W quase sempre garante uma troca positiva se usado com o E, mas tome cuidado para não ficar fora de posição!"
+ ],
+ "Fiddlesticks": [
+  "Sem controle de visao, seu R perde metade da forca; apague wards antes de pensar na luta.",
+  "Seu fear passivo em angulo sem visao ganha fight inteiro, entao abuse de parede e moita."
+ ],
+ "Fiora": [
+  "Ser paciente na hora de usar o W, ripostar, pois ele é sua maior chance de virar uma troca!",
+  "Sua passiva escolhe um lado ao chegar perto do oponente, se a marca não favorecer, pode sair de perto e voltar que ela reseta!"
+ ],
+ "Fizz": [
+  "Use seu Q no meio da onda de minions e sua ultimate na direção do inimigo, isso vai camuflar sua isca e te dará uma oportunidade de kill!",
+  "Seu E é sua maior defesa e ataque, evite usar ele toda hora sem pensar!"
+ ],
+ "Galio": [
+  "Seu provocar bem usado vira engage ou peel; nao trate a skill so como combo automatico.",
+  "O R fica melhor como resposta ao engage do inimigo ou para cobrir dive do seu time com preparo."
+ ],
+ "Gangplank": [
+  "Quanto menos vida, mais sua laranja te cura, evite usar ela perto da vida cheia",
+  "A laranja funciona como uma bandana de mercúrio, ela remove qualquer controle de grupo do jogo!",
+  "Tente usar um barril dentro da moita sem o inimigo ver, para conectar outro e surpreende-lo!"
+ ],
+ "Garen": [
+  "Seu W te concede tenacidade, usar preste a tomar um controle de grupo fará toda diferença!",
+  "Sua ultimate da mais dano baseado na vida perdida do oponente, use sempre para finalizar!"
+ ],
+ "Gnar": [
+  "Sua barra de fúria fará toda diferença em uma teamfight, tente controlar ela antes de um teleport para chegar na luta MEGA!",
+  "Seu pulo se usado em um minion aliado pulará duas vezes, use isso para inicializar!"
+ ],
+ "Gragas": [
+  "Se você usar o barril dentro de uma parede, seu oponente não verá, o famoso invisible barrel!",
+  "Seu W concede redução de dano, use ele antes de combar com tudo no inimigo!"
+ ],
+ "Graves": [
+  "Seu W pode ser a maior diferença entre uma TF ganha, tente usar ele no carry inimigo!",
+  "Seu E concede uma bala a mais na passiva, use ele para maximizar o dano!",
+  "Seu Q rebate na parede, use isso para limpar a selva mais rapido!"
+ ],
+ "Gwen": [
+  "Combine seu Q junto com seu E para acertar o centro da habilidade, isso causará dano real no oponente!",
+  "Seu w é a base do boneco, use ele para anular o dano dos carrys inimigos!"
+ ],
+ "Hecarim": [
+  "Seu Q acumula 3 vezes, tente acumular antes de entrar em uma luta",
+  "Seu W te cura de todas as fontes de dano, na teamfight seus aliados te curaram também!"
+ ],
+ "Heimerdinger": [
+  "Sua granada de atordoamento pode ganhar uma team fight sozinha, tente usar sua ultimate com ela. Controle é mais importante que dano muitas vezes!",
+  "Perto de torres aliadas você ganha velocidade de movimento, sendo as suas ou do terreno, abuse disso para desviar de habilidades!"
+ ],
+ "Hwei": [
+  "Nao aperte spells sem plano; a grande forca do Hwei esta em escolher a paleta certa para cada momento.",
+  "Procure encaixar duas habilidades de dano em sequencia para detonar a passiva com frequencia."
+ ],
+ "Illaoi": [
+  "Sua maior fonte de dano é seu E, tenha calma ao usar, pois se erra-lo seu boneco perde 50% do poder",
+  "Chegue cedo na fase de rotas e deixe sua passiva colocar tentaculos na lane"
+ ],
+ "Irelia": [
+  "Prepare os minions antes da troca para ter mobilidade de Q e controlar o ritmo do all in, uma irelia sem passiva não da dano.",
+  "O W precisa absorver burst importante, nao servir como poke aleatorio."
+ ],
+ "Ivern": [
+  "Bush bem colocado muda dano, visao e cadencia de troca, especialmente com aliados ranged",
+  "A margarida precisa de micro; trate a ult como uma segunda unidade e nao como botao de dano."
+ ],
+ "Janna": [
+  "Use seu tornado de dentro da moita, pois ele é muito previsivel e fácil de desviar!",
+  "Sua ultimate é um dos melhores desengages do jogo, não use ela só para curar os aliados, mas também para afastar os inimigos!"
+ ],
+ "Jarvan IV": [
+  "Sua ult pode ser reutilizada para cancelar a arena, caso você se prenda ou prenda um aliado.",
+  "Antes de ultar, cheque se voce nao vai prender justamente seu proprio carry junto com o inimigo."
+ ],
+ "Jax": [
+  "Quanto mais inimigos ao seu redor, mais resistências sua ultimate dará, tente usar isso ao seu favor!",
+  "Use minion, ward ou unidade proxima para ganhar mobilidade com o Q e sair de situacao ruim."
+ ],
+ "Jayce": [
+  "Se gastar muita mana na lane, fique na forma de martelo, pois cada hit seu nessa forma recupera mana!",
+  "Disparo Chocante atravessando o portao acelerador ganha alcance e dano. E esse combo que vence a troca de longe."
+ ],
+ "Jhin": [
+  "Seu W é muito previsível, tente sempre usar depois do suporte encaixar uma lentidão ou controle de grupo no inimigo",
+  "Seu quarto tiro da dano baseado na vida perdida, tente sempre utilizar seu Q antes de dar o quarto tiro, pois isso maximizará seu dano!"
+ ],
+ "Jinx": [
+  "Seu canhão consome muita mana, tome cuidado ao usar muito ele no early game!",
+  "Sua mordidinha flamejante é muito previsível, tente utilizar junto de um controle de grupo do suporte!"
+ ],
+ "K'Sante": [
+  "Sua ultimate pode tirar um carry de posição, tente usa-la sempre perto de uma parede!",
+  "Encaixa ataque basico entre as habilidades. Alternar assim maximiza o dano e gasta menos energia."
+ ],
+ "Kai'Sa": [
+  "Seu Q espalha conforme alvos estão pertos, tente utilizar sempre em um ou dois alvos!",
+  "Seu W depois de transformado se torna uma fonte segura de dano a longo alcance, além de ter seu tempo de recarga restituido caso acerte!"
+ ],
+ "Kalista": [
+  "Seu E reseta caso mate um alvo, use isso para farmar com segurança!",
+  "Seu ultimate também serve para salvar seu suporte, não tenha medo de usar para tirar uma kill do inimigo!"
+ ],
+ "Karma": [
+  "Se jogada como suporte, evite fazer build de dano, pois ela tem um dos maiores escudos do jogo em area com seu mantra!",
+  "Seu mantra mais W te cura, baseado em vida perdida, use isso para virar uma troca na bot lane!"
+ ],
+ "Karthus": [
+  "Seu W tira resistências mágicas do inimigo, tente utilizá-lo antes de ultar se estiver na passiva!",
+  "Sua passiva garante muito dano na team fight, não tenha medo de entrar no meio de uma luta mesmo que isso custe sua vida!",
+  "O time inimigo ficará alerta quando você morrer, tenha paciência em usar seu Q, é melhor ser devagar e preciso do que afobado e errado!"
+ ],
+ "Kassadin": [
+  "Sua ultimate gasta muita mana conforme acumula, tente cadenciar para não ficar fora de posição!",
+  "Seu W recupera 3 vezes mais mana se usado em campeões inimigos!"
+ ],
+ "Katarina": [
+  "Espere sair o controle de grupo mais perigoso antes de se comprometer no reset.",
+  "O posicionamento das adagas importa mais do que a velocidade do combo; planeje onde o inimigo vai pisar."
+ ],
+ "Kayle": [
+  "Sua ult nao precisa ser egoista; usar no carry certo decide fight melhor do que segurar para si mesma.",
+  "Seu campeão até o nível 6 é bem frágil, evite morrer nesse ponto do jogo!"
+ ],
+ "Kayn": [
+  "Escolha sua forma desde a tela de carregamento e path em funcao disso, em vez de pegar orb no improviso.",
+  "Antes da forma, evite forcar lutas sem necessidade, porque o campeao cresce muito depois da transformacao."
+ ],
+ "Kennen": [
+  "Seu engage melhora muito vindo de flanco com E e Flash do que andando reto pela frente.",
+  "Na lane, o auto energizado e uma ferramenta forte de poke e pressao, entao não o desperdice."
+ ],
+ "Kha'Zix": [
+  "Isolamento e seu idioma; se o alvo nao esta isolado, pense duas vezes antes de entrar.",
+  "O reset do salto vale muito mais quando voce decide antes se ele sera usado para matar ou sair."
+ ],
+ "Kindred": [
+  "Nao se suicide por marca; muitas marcas ruins sao armadilha para jungler impaciente.",
+  "Sua ult so e boa se voce souber quem sai favorecido quando ela termina."
+ ],
+ "Kled": [
+  "Evite upar seu W de imediato, tente ativar a skill no momento que conectar seu primeiro Q",
+  "O ultimo acerto de Tendencias Violentas doi mais que os tres antes dele. Nao larga a troca no meio."
+ ],
+ "Kog'Maw": [
+  "Seu W é a sua maior fonte de dano, evite trocas com ele em tempo de recarga!",
+  "Sua ultimate da dano baseado na vida perdida, evite ter muitos acumulos com os inimigos full life"
+ ],
+ "LeBlanc": [
+  "As moitas são as maiores aliadas de um assassino, pink + lente no midgame te dará muitas kills com o combo do Q R W",
+  "Seu clone pode ser controlado com a tecla ALT, engane seus oponentes!"
+ ],
+ "Lee Sin": [
+  "Ward é mobilidade, tente ao máximo comprar sentinelas para usar W + ward jump",
+  "Nem todo Q2 deve ser usado; pense se voce realmente pode terminar a jogada ou se vai se matar entrando."
+ ],
+ "Leona": [
+  "Não sobreponha todo o controle de grupo de uma vez; encaixe cadeia de CC com calma.",
+  "Tente começar o engage com sua ultimate, isso garantirá que você acerte todo resto do kit!"
+ ],
+ "Lillia": [
+  "Mantenha a passiva rodando em camp e luta para jogar sempre com velocidade alta.",
+  "Seu sono fica muito melhor quando o time pode seguir na hora, em vez de usar isolado e longe do dano."
+ ],
+ "Lissandra": [
+  "Tente usar seu E para atravessar paredes e surpreender o inimigo vindo da fog!",
+  "Muitas vezes ultar para ficar vivo garantirá uma boa teamfight, pense antes de agir!"
+ ],
+ "Lucian": [
+  "Seu dash é um reset de auto ataque, quanto mais curto, maior será seu dano explosivo, pratique isso e se diferencie do resto!",
+  "Seu W te dá velocidade de movimento, tente utilizar junto com sua ultimate para encaixar o expurgo!"
+ ],
+ "Lulu": [
+  "Quase sempre vai ser melhor utilizar o W no oponente, polimorfia é um dos maiores controles de grupo do jogo",
+  "Caso seu atirador seja um hiper carregador, foque mais em buffalo do que tentar salvar outros aliados!"
+ ],
+ "Lux": [
+  "Seu E também serve para zonear e dar visao antes do burst; nao estoure sempre na mesma hora.",
+  "Tente conciliar ataques básicos entre as habilidades, principalmente durante a fase de rotas, isso aumentará seu dano causado!"
+ ],
+ "Malphite": [
+  "Mana e preciosa na lane, então escolha bem quando usar Q e quando apenas esperar.",
+  "Sua ultimate é tudo, observe se seu time consegue te acompanhar antes de utilizá-la"
+ ],
+ "Malzahar": [
+  "Sua passiva de escudo muda como voce pode andar para frente; sem ela, respeite bem mais.",
+  "Bandana anula sua ultimate, constantemente veja a build dos carries para não usar em um alvo imune!"
+ ],
+ "Maokai": [
+  "batatinha em moita e ponto de contato muda totalmente como o inimigo pode andar no mapa.",
+  "Seu W de peel muitas vezes vale mais do que usar para ser o primeiro a entrar."
+ ],
+ "Master Yi": [
+  "Use o W para reduzir burst e tambem para resetar auto em troca curta quando possível.",
+  "O Q e sua forma mais importante de desviar CC e skill decisiva, nao gaste sem necessidade."
+ ],
+ "Mel": [
+  "Seu W é sua principal habilidade, tenha calma pois se usado cedo demais pode te deixar muito vulnerável!",
+  "Acompanhe o acúmulo da passiva e concentre dano para executar um alvo em vez de espalhar pressão em todo mundo."
+ ],
+ "Milio": [
+  "Sua ultimate é o equivalente a uma bandana de mercúrio em área, não use ela de maneira displicente!",
+  "Seu W vai ser mais para aumentar o alcance do seu atirador do que para curar muitas vezes, tenha isso em mente!"
+ ],
+ "Miss Fortune": [
+  "Sua passiva reseta sempre que você troca de alvo, tenha essa malicia para maximizar seu dano em alvos múltiplos",
+  "Guarde seu E para utilizar junto da ultimate, pois ele da lentidão em área, o que aumentará muito seu dano!"
+ ],
+ "Mordekaiser": [
+  "Puxe com E depois que o inimigo gastar mobilidade ou andar para frente, e não no escuro.",
+  "Seu R ganha muito valor em jungler perto de objetivo ou no carry que seu time não consegue alcancar.",
+  "Seu Q isolado causa muito mais dano, é melhor ser paciente do que usar em muitos alvos!"
+ ],
+ "Morgana": [
+  "Seu Q é sua habilidade mais importante durante a fase de rotas, evite ficar utilizando só porque está disponível!",
+  "Tenha calma na hora de usar seu escudo negro, pois ele dura pouco e tem um tempo de recarga alto!"
+ ],
+ "Naafiri": [
+  "Espere sua alcateia estar pronta antes do all in, porque isso muda muito o dano inicial.",
+  "Nao use o W enquanto o alvo ainda tem CC instantaneo disponivel, senao voce entrega a engage de bandeja."
+ ],
+ "Nami": [
+  "Seu E causa lentidão, tente usar isso ao seu favor para facilitar na hora de acertar a bolha!",
+  "Se você utilizar a ultimate antes de jogar a bolha, será muito mais fácil de acertar! Crie uma corrente de controle de grupos!"
+ ],
+ "Nasus": [
+  "Não aceite luta que atrase seu stack sem necessidade; seu relogio e o farm limpo.",
+  "Se estiver em uma fase de rotas desfavorável considere pegar alguns níveis no E para farmar em segurança!"
+ ],
+ "Nautilus": [
+  "Use a passiva entre suas skills para encadear controle por mais tempo.",
+  "Nem sempre o primeiro hook da luta deve ser no front line, espere alvo realmente valioso aparecer."
+ ],
+ "Neeko": [
+  "Disfarce e fog sao ferramentas de pick, nao enfeite; abuse da imprevisibilidade, quando você se transforma em minion, não aparece no minimapa!",
+  "Sua ult fica muito mais confiável quando canalizada escondida, com Flash ou em follow de engage aliado."
+ ],
+ "Nidalee": [
+  "Lança, acerta e então entre, forçar forma melee sem marcar o alvo geralmente da ruim.",
+  "Posiciona as armadilhas antes da luta comecar. O dano e por vida atual, entao elas derretem a linha de frente."
+ ],
+ "Nilah": [
+  "Sua passiva geralmente fará você pegar nível 6 antes com seu suporte, aproveite essa janela para matar a bot lane inimiga!",
+  "O W pode anular janelas enormes de dano de campeão dependente de auto, então use com paciência."
+ ],
+ "Nocturne": [
+  "Sua spell shield precisa negar a skill certa, nao qualquer coisa que encoste em você",
+  "Usar seu Q antes de ultar aumentará seu dano causado, pois o efeito da sombra te da dano de ataque!"
+ ],
+ "Olaf": [
+  "Contra muito controle, o momento da ult vale mais do que o dano que ela parece dar",
+  "Seus machados consomem muita mana na fase de rotas, preste atenção nisso antes de ir all in!"
+ ],
+ "Orianna": [
+  "Sua bola pode ser escondida dentro de moitas e até mesmo paredes, use isso para surpreender o oponente!",
+  "Escudo e velocidade também iniciam jogada, não pense na bola apenas como dano."
+ ],
+ "Ornn": [
+  "Quando você evolui itens dos aliados, você recebe mais resistências, nunca esqueça de forjar itens para seu time!",
+  "Ruptura Vulcanica nao e so dano, e zoneamento. Usa pra cortar o espaco deles antes da luta comecar."
+ ],
+ "Pantheon": [
+  "O  W fortalecido costuma ser a entrada mais confiavel para explodir alvo e setar o resto do combo.",
+  "O E precisa apontar para a principal ameaca de dano e nao ser usado sem direcao."
+ ],
+ "Poppy": [
+  "Segure o W para dash importante; usar cedo contra campeao movel quase sempre perde a troca.",
+  "Seu R pode servir para expulsar alvo da luta ou simplesmente ganhar tempo; decida entre toque rapido e canal completo."
+ ],
+ "Pyke": [
+  "Segurar seu hook geralmente ditará a posição que o inimigo irá desviar, use isso ao seu favor!",
+  "Seu snowball vem muito de roam em timing de reset e wave, entao saia da lane com criterio."
+ ],
+ "Qiyana": [
+  "O elemento certo importa mais do que combar rapido, entao pense no terreno antes de entrar.",
+  "Muro, arbusto e rio são seus melhores amigos para criar pick e ult devastadora."
+ ],
+ "Quinn": [
+  "Use o blind nos campeões que dependem do auto ataque na troca curta e no all in.",
+  "Use seu e para garantir seu espaço entre você e os inimigos!"
+ ],
+ "Rakan": [
+  "Seu engage muda totalmente quando vem de fog ou do alcance extra em aliado, então abuse desses ângulos.",
+  "Não gaste os dois dashes cedo demais se o inimigo ainda tem controle para te punir."
+ ],
+ "Rammus": [
+  "Taunt no carry de auto ataque e o padrao mais simples e mais efetivo do campeao.",
+  "Entrar sem W ativo reduz muito sua sobrevivencia, especialmente contra dano fisico."
+ ],
+ "Rek'Sai": [
+  "Sua rede de tuneis e controle de mapa, nao apenas mobilidade pontual; mantenha bons caminhos vivos.",
+  "Anda pelo mapa escavado. O sentido sísmico te avisa de quem está em volta e ainda te dá velocidade extra."
+ ],
+ "Rell": [
+  "Sua engage precisa levar o inimigo para o alcance do seu time, nao so parecer bonita.",
+  "Seu Q remove escudos no geral, utilize especialmente contra encantadores!"
+ ],
+ "Renata Glasc": [
+  "Seu Q pode ser reativado para reposicionar o inimigo, se colidir com outro, gerará um atordoamento!",
+  "Tente sempre utilizar sua ultimate com FLASH, de preferencia sem visão inimiga."
+ ],
+ "Renekton": [
+  "Gerenciar fúria e metade da lane; entrar sem recurso faz o campeão parecer muito pior.",
+  "Seu W com mais de 50 de fúria além de atordoar remove escudos inimigos, tenha cautela ao usar."
+ ],
+ "Rengar": [
+  "Seu W além de te curar, se usado com a passiva acumulada remove controles de grupo!",
+  "Quando tu pular da sua Ultimate, nem sempre a melhor escolha é usar o Q duas vezes pra burst, as vezes é melhor usar o E pra stunar um inimigo."
+ ],
+ "Riven": [
+  "Use sempre um ataque básico entre as skills, para extrair o máximo da sua passiva!",
+  "Sua ultimate além de aumentar seu dano, também aumenta o range das suas skills, pode ser útil para fugir ou para chegar nos inimigos. Não tenha medo de ultar cedo."
+ ],
+ "Rumble": [
+  "Jogue na zona de perigo da passiva sempre que puder, ali seu campeão realmente machuca.",
+  "Sua ult fica melhor cortando caminho e recuo do inimigo do que tentando usar como linha de dano bruto apenas."
+ ],
+ "Ryze": [
+  "Seu E espalha o dano do Q conforme marca vários alvos, utilize essa mecanica para avançar rotas!",
+  "Da pra andar e usar habilidade enquanto o portal carrega. Nao fica parado esperando ele sair."
+ ],
+ "Samira": [
+  "Fique atento aos controles de grupo do seu suporte, pois sua passiva causa muito dano na fase de rotas!",
+  "Seu W tem um tempo de recarga muito alto, evite utilizar de forma descuidada."
+ ],
+ "Sejuani": [
+  "Sua passiva te deixa muito mais tanque na primeira entrada, entao respeite o tempo dela entre trocas.",
+  "Com aliados melee voce stacka o E rapido demais, entao procure jogar perto deles."
+ ],
+ "Senna": [
+  "Seu W se matar um alvo, enraiza imediatamente, utilize isso junto com o atlas de suporte para pegar o inimigo desprevinido!",
+  "Seu E esconde quantos aliados estão dentro da fumaça, surpreenda o oponente com isso!",
+  "Sua habilidade ultimate não causa dano em estruturas e objetivos como dragão, arauto e barão!"
+ ],
+ "Seraphine": [
+  "Controle o eco das skills, porque a spell duplicada certa muda completamente a luta.",
+  "Sua ult cresce de alcance atravessando aliados e inimigos, entao pense em linha e nao so em distancia curta."
+ ],
+ "Sett": [
+  "O W ganha trocas quando você segura para o momento certo e acerta a parte central.",
+  "Sua ult fica muito melhor levando o alvo importante para dentro do seu time do que jogando tanque para longe sem valor."
+ ],
+ "Shaco": [
+  "Box precisa ser preparada antes da luta para render de verdade; jogar em cima da hora reduz muito o efeito.",
+  "Seu clone serve para baitar skill, torre e desorientar, nao apenas para dano extra."
+ ],
+ "Shen": [
+  "Observe barras de vida e mapa o tempo inteiro; sua ult muda partida quando usada cedo.",
+  "Puxar a espada atravessando o alvo melhora demais sua troca, entao cuide do posicionamento do Q."
+ ],
+ "Shyvana": [
+  "Seu campeao gira muito em torno da forma de dragao, entao organize objetivos e lutas por esse recurso.",
+  "Farm eficiente antes de forcar muito cedo costuma render mais do que gank improvisado sem setup."
+ ],
+ "Singed": [
+  "Cola e fling juntos montam seu padrao de pick, especialmente contra campeao sem Flash.",
+  "Arremessa o inimigo pra dentro da sua torre. O dano dela fecha o abate que voce sozinho nao fecharia."
+ ],
+ "Sion": [
+  "Carregar Q dentro da moita ou depois do E slow deixa a skill bem mais dificil de responder.",
+  "Sua passiva ainda produz valor em wave, torre e troca final, entao morra sempre tentando extrair algo."
+ ],
+ "Sivir": [
+  "Seu Q consome muita mana, tenha cautela e não spamme antes de ter colhedor de essência!",
+  "Seu escudo é seu maior aliado, tenha frieza na hora de apertar a tecla E pois isso pode te salvar",
+  "Seu escudo também ativa sua passiva, isso pode te fazer fugir de uma situação de perigo"
+ ],
+ "Skarner": [
+  "Seu campeão fica muito forte em pick e corredor, então jogue em volta de terreno e objetivo.",
+  "O E por parede ou angulo fechado cria engages muito mais confiáveis do que andar reto no alvo."
+ ],
+ "Smolder": [
+  "Até ter 25 stacks na passiva você não tem poder nenhum durante a lane praticamente, evite trocar antes disso!",
+  "Seu E pode te salvar de dives, guarde ele para utilizar dentro de uma parede para ganhar tempo do inimigo!"
+ ],
+ "Sona": [
+  "Mana no early e limitada, então cada spell precisa ter valor real.",
+  "O acorde de poder certo muda troca, então não jogue todas as rotações do mesmo jeito."
+ ],
+ "Soraka": [
+  "Evite curar seus aliados sem acertar o seu Q, pois isso consumirá sua vida!",
+  "Evite usar o Silence sem motivo, ele tem um tempo de recarga muito alto e consegue mudar o rumo de uma luta!"
+ ],
+ "Swain": [
+  "Se cure usando a passiva nas lutas para você durar mais tempo",
+  "Seu W garante visão de moitas, use antes de dar face check",
+  "O seu E pega em area, utilize quando o inimigo tiver proximo da wave para acertar mais facil"
+ ],
+ "Sylas": [
+  "Escolher a melhor ult para aquela partida vale mais do que roubar a primeira que aparecer.",
+  "Seu W vira troca e bait quando usado em vida baixa no momento exato."
+ ],
+ "Syndra": [
+  "Seu atordoar é a chave para uma lane vencedora, tenha cautela antes de empurrar a bola no inimigo",
+  "Antes do combo completo, veja quantas esferas já estão prontas para maximizar dano e controle."
+ ],
+ "Tahm Kench": [
+  "Seu Q fica muito mais opressivo quando você já montou stacks ou lentidão antes.",
+  "Sua ultimate pode salvar aliado ou remover carry inimigo; decidir isso rápido define a qualidade da luta."
+ ],
+ "Taliyah": [
+  "Gerenciar terreno trabalhado muda demais seu DPS e sua movimentação em lane.",
+  "O E existe para punir dash, então segure contra campeões que querem entrar em voce."
+ ],
+ "Talon": [
+  "Sua primeira rota depois de empurrar wave e onde o campeão mais cobra valor, então jogue o mapa cedo.",
+  "Pular parede sem pensar na volta deixa sua rota de fuga ruim, então planeje entrada e saida."
+ ],
+ "Taric": [
+  "O posicionamento do vinculo define suas melhores engages e curas, entao fique atento ao aliado conectado.",
+  "Sua ult precisa comecar antes do burst chegar, porque reagir tarde demais geralmente nao funciona."
+ ],
+ "Teemo": [
+  "O blind precisa acertar a janela de dano do auto atacante, nao qualquer momento da troca.",
+  "Cogumelo tambem e visao e controle de rota, e nao apenas dano aleatorio no mapa."
+ ],
+ "Thresh": [
+  "Esfolar paciente cancela dash e engage, e muita gente perde isso por usar o E cedo demais.",
+  "A lanterna prioriza o alvo com menor vida pra shieldar, não tenha medo de usar numa fight",
+  "A passiva do seu E energiza o próximo ataque básico após um certo tempo sem utilizá-lo."
+ ],
+ "Tristana": [
+  "A passiva do E explode um alvo ao matar, isso pode empurrar demais a rota de minions, tenha cuidado e não puxe demais!",
+  "Reset é seu maior aliado, não tenha medo de pular de forma agressiva, mas matenha sempre o posicionamento!",
+  "Seu W pode cancelar habilidades, como puxão do blitzcrank, tente utilizar no melhor timing possível!"
+ ],
+ "Trundle": [
+  "Pilar bem colocado corta caminho, cancela dash e cria pick com muito mais frequencia do que parece.",
+  "Sua ult rende mais quando usada em alvo resistente durante a luta, e não cedo demais sem necessidade."
+ ],
+ "Tryndamere": [
+  "Fúria é prioridade de lane, sem barra cheia você perde trocas que parecia ganhar.",
+  "Não deixe a ult para o último pixel de vida, porque lag, ignite e burst em cadeia punem demais."
+ ],
+ "Twisted Fate": [
+  "Farme sem parar enquanto olha o mapa, porque sua pressão verdadeira nasce do R e do controle de wave.",
+  "Muitas vezes vale selecionar a gold card antes de sair da visão para diminuir a reação inimiga."
+ ],
+ "Twitch": [
+  "Sua camuflagem é sua maior aliada, sempre tente chegar invisível antes de uma luta em equipe acontecer!",
+  "Pegar abates, restitui o tempo de recarga da sua camuflagem, não deixe de utilizar pois isso vai aumentar seu dano na luta!"
+ ],
+ "Udyr": [
+  "Escolher a postura despertada certa vale mais do que spammar sempre a mesma.",
+  "Seu campeão brilha quando cicla formas e mantém presença constante, não quando fixa em uma so ideia."
+ ],
+ "Urgot": [
+  "Lute andando ao redor do alvo para disparar mais pernas da passiva durante o duelo.",
+  "Seu E e engage e tambem anti dive, entao nao o gaste sem pensar na resposta do inimigo."
+ ],
+ "Varus": [
+  "Sua passiva é sua maior fonte de dano, tente cadenciar 3 ataques, habilidade, 3 ataques.",
+  "Seu E tem o efeito de cortar curas inimigas, especialmente contra encantadores pode ser muito útil!"
+ ],
+ "Vayne": [
+  "Seu rolamento funciona como mobilidade e reset de ataque básico, se utilizado colado em uma parede, aumentará muito seu dano por segundo!",
+  "Sua ultimate torna seu rolamento totalmente imprevisível, ande para um lado e role para o outro para confundir seus oponentes!",
+  "Evite usar seu condenar o tempo todo durante a fase de rotas, pois ele custa muita mana!"
+ ],
+ "Veigar": [
+  "Sua gaiola cria zona de pressão mesmo sem stun, então use para cortar espaco e não só para acertar bonito.",
+  "Empilhar Q com segurança é o caminho normal para o campeão crescer, então respeite early fraco."
+ ],
+ "Vel'Koz": [
+  "Sua passiva de dano verdadeiro precisa de tres acertos, então pense no combo completo e não em spell isolada.",
+  "A ult fica muito mais confiável quando o alvo esta controlado ou sem mobilidade."
+ ],
+ "Vex": [
+  "Punir dash e parte central do campeao; guarde sua passiva para os alvos que realmente entram.",
+  "So entre de ult quando houver kill ou reset plausivel, senao voce vira alvo facil."
+ ],
+ "Vi": [
+  "Carregar o Q fora da visao aumenta bastante a chance de acerto e reduz resposta do alvo.",
+  "Seu escudo passivo ajuda muito em troca curta, entao abuse do entra e sai quando possivel."
+ ],
+ "Viego": [
+  "As possessões sao ferramenta para continuar vivo e resetar a luta, não só para fazer gracinha com outro kit.",
+  "Seu W carregado perto de parede e fog cria engages muito melhores do que andando reto."
+ ],
+ "Viktor": [
+  "O laser te da prioridade de wave e rota, então use isso para chegar primeiro nas jogadas.",
+  "O campo gravitacional precisa punir a entrada inimiga, não ser gasto antes de a luta realmente comecar."
+ ],
+ "Vladimir": [
+  "Seu E pode ser utilizado junto com a poça, faça uso desse combo para causar muito dano em segurança!",
+  "Sua ultimate aumenta o dano sofrido pelos oponentes em 10%, nunca morra em uma teamfight sem utiliza-la"
+ ],
+ "Volibear": [
+  "Sua ultimate dá vida extra, então pode ser usada para sobreviver em lutas difíceis.",
+  "Sua ultimate desativa torres em uma área por um período, use isso para criar jogadas e dar dive no inimigo.",
+  "Use seu E antes do Q para que o inimigo fique na área e garanta que o E caia nele."
+ ],
+ "Warwick": [
+  "Siga o rastro de sangue, mas não desligue o cérebro por causa disso; muita chase ruim nasce dai.",
+  "O E bem usado nega burst e ainda devolve fear, então segure o timing certo."
+ ],
+ "Wukong": [
+  "Seu clone ganha lutas quando realmente engana o inimigo; usar instantaneamente toda vez o deixa previsível.",
+  "Seu valor em teamfight aumenta muito quando você usa os dois knock ups com paciência."
+ ],
+ "Xayah": [
+  "Seu W garantirá muitas penas e uma boa troca, porém tem um tempo recarga alto, não use atoa!",
+  "Sua ultimate te deixa inalvejável, use isso para sair de engages inimigos, ou ultimates!",
+  "Seu flash é seu maior aliado, com ele você pode reposicionar as penas e explodir o inimigo!"
+ ],
+ "Xerath": [
+  "Mana e espaçamento no early decidem sua lane; sem isso você perde pressão rapido.",
+  "Sua ult fica bem melhor depois que o alvo perdeu dash, Flash ou visao segura."
+ ],
+ "Xin Zhao": [
+  "Seu campeão é muito forte cedo, então não trate todo jogo como full clear passivo.",
+  "O R nega dano de fora, então pense em isolar o alvo certo dentro da sua zona."
+ ],
+ "Yasuo": [
+  "A wave e seu mapa de mobilidade; sem minion certo você perde muitas opções de luta.",
+  "Guarde a parede de vento para habilidades ou projétil importante, porque ela ganha lutas quase sozinha."
+ ],
+ "Yone": [
+  "Seu E deixa um ponto de retorno punível, então sempre saiba onde você vai reaparecer.",
+  "Misture troca curta com saída limpa antes de procurar o all in completo."
+ ],
+ "Yorick": [
+  "Seu dano real aparece com donzela e criaturas, então não lute como se fosse campeão de stat puro sem setup.",
+  "A gaiola fica muito melhor quando o dash inimigo já saiu ou quando ele está preso no corredor."
+ ],
+ "Yunara": [
+  "A maior fraqueza do seu campeão é quando você não tem acúmulos da passiva do Q, preste muita atenção nisso antes de trocar!",
+  "Sua ultimate é seu ponto máximo, porém tenha cautela para não usar antes da hora!"
+ ],
+ "Yuumi": [
+  "Saia do aliado quando for seguro para procar a passiva e recuperar recursos, porque isso aumenta bastante seu valor.",
+  "Escolha sempre o melhor hospedeiro da luta atual, e não o mesmo aliado por hábito."
+ ],
+ "Zaahen": [
+  "Entre em lutas mais longas depois de acumular Determinação, porque sua pressão cresce bastante com stacks.",
+  "Se a janela de ressurreição estiver ativa, voce pode baitar recursos, mas so quando seu time consegue cobrir sua volta."
+ ],
+ "Zac": [
+  "Estilingue sem visão e muito mais forte do que engage anunciada pela frente.",
+  "Pegar blobs no meio da luta sustenta seu campeão demais, então brigue pensando na rota desses fragmentos."
+ ],
+ "Zed": [
+  "Suas sombras sao dano e escape ao mesmo tempo, então gastar tudo cedo demais costuma te prender na jogada.",
+  "Entre de ult quando a principal resposta defensiva do alvo ja saiu ou quando você sabe como sair depois."
+ ],
+ "Zeri": [
+  "Sua ultimate tem potencial para ganhar uma luta sozinha, não use só porque está no começo da luta em equipe, imagine se vai durar ou não!",
+  "Seu e surfa nas paredes, tenha cautela na hora de usar!"
+ ],
+ "Ziggs": [
+  "Seu W executa torres com vida baixa, evite usar antes da passiva aparecer na estrutura!",
+  "Mesmo longe da luta voce ajuda com a bomba megainfernal. Olha o mapa e joga nas lutas dos outros."
+ ],
+ "Zilean": [
+  "Double bomb fica muito mais consistente depois de slow, speed up aliado ou CC já aplicado.",
+  "Use a ult antes de o alvo cair para 1 de vida, porque burst encadeado pune a reação tardia."
+ ],
+ "Zoe": [
+  "O ângulo da bolha importa mais do que a pressa; parede e distância aumentam muito seu dano.",
+  "Acorda o alvo com o seu maior dano. Quem esta dormindo toma o dobro, entao nao desperdica em auto ataque."
+ ],
+ "Zyra": [
+  "A posição das sementes antes das skills decide zoneamento e dano, então planeje o terreno.",
+  "Sua ult fica muito melhor quando as plantas já estão batendo ou quando o alvo já está enraizado."
+ ],
+ "Nunu & Willump": [
+  "Rola a bola de neve dos camps ou das paredes pra chegar em cima do inimigo sem ele reagir.",
+  "Usa o consumir nos monstros grandes antes de gankar, ele cura e da o dano que fecha o abate."
+ ],
+ "Locke": [
+  "Marca com os pregos e consome com ataque básico. Sua passiva cresce com a vida que falta no alvo, então o dano só aumenta durante a troca.",
+  "A ignição te machuca antes de curar. Ativa quando a troca vai continuar, nunca pra tentar escapar com vida baixa."
+ ]
+}

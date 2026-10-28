@@ -1,0 +1,310 @@
+html,
+body {
+  background: transparent !important;
+  background-color: transparent !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+}
+.intro-bar.svelte-xybm77 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 99;
+  pointer-events: none;
+  will-change: transform;
+}
+.intro-red.svelte-xybm77 {
+  background: #c1ff46;
+}
+.intro-green.svelte-xybm77 {
+  background: #e22c4b;
+}
+.widget.svelte-xybm77 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 32px;
+  background: #1b1a1a;
+  border-radius: 0;
+  transition: height 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+  -webkit-user-select: none;
+  user-select: none;
+  box-sizing: border-box;
+}
+.widget.expanded.svelte-xybm77 {
+  height: 120px;
+}
+.drag-layer.svelte-xybm77 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 0;
+  z-index: 1;
+  cursor: grab;
+}
+.drag-layer.svelte-xybm77:active {
+  cursor: grabbing;
+}
+.row.svelte-xybm77 {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 30px;
+  padding: 0 9px;
+  flex-shrink: 0;
+  pointer-events: none;
+  box-sizing: border-box;
+  opacity: 0;
+}
+.status.svelte-xybm77 {
+  font-family: Anton, sans-serif;
+  font-size: 13px;
+  text-transform: uppercase;
+  color: #c1ff46;
+  line-height: 1;
+}
+.status.svelte-xybm77 {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.status-logo-wrap.svelte-xybm77 {
+  width: 0;
+  height: 36px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+}
+.status-logo.svelte-xybm77 {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+.status-state.svelte-xybm77 {
+  color: #fff;
+}
+.status-state.inactive.svelte-xybm77 {
+  color: #f43f5e;
+}
+.build-blocked.svelte-xybm77 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 27px;
+  padding: 0 8px;
+  text-align: center;
+  font-size: 9px;
+  letter-spacing: 0.04em;
+  line-height: 1.3;
+  color: #ffffff8c;
+}
+.right.svelte-xybm77 {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.lock-btn.svelte-xybm77,
+.items-btn.svelte-xybm77 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 10px;
+  height: 10px;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  color: #ffffffb3;
+  border-radius: 0;
+  transition: color 0.65s cubic-bezier(0.22, 1, 0.36, 1);
+  flex-shrink: 0;
+  pointer-events: all;
+  position: relative;
+  z-index: 3;
+}
+.lock-btn.svelte-xybm77:hover,
+.items-btn.svelte-xybm77:hover {
+  color: #ffffffe6;
+}
+.widget.unlocked.svelte-xybm77 .lock-btn:where(.svelte-xybm77) {
+  color: #c1ff4699;
+}
+.widget.unlocked.svelte-xybm77 .lock-btn:where(.svelte-xybm77):hover {
+  color: #c1ff46;
+}
+.item-label-wrap.svelte-xybm77 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #151515f5;
+  pointer-events: none;
+  padding: 0 10px;
+  z-index: 4;
+  opacity: 0;
+  transform: translateY(-2px);
+  transition:
+    opacity 1.3s ease,
+    transform 1.3s ease;
+}
+.item-label-wrap.show.svelte-xybm77 {
+  opacity: 1;
+  transform: translateY(0);
+}
+.item-label.svelte-xybm77 {
+  font-family: system-ui, sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+  color: #c1ff46f2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+.popup-body.svelte-xybm77 {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0;
+}
+.popup-header.svelte-xybm77 {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 6px 9px;
+  min-height: 58px;
+  opacity: 0;
+}
+.header-balloon.svelte-xybm77 {
+  position: relative;
+  align-self: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  width: 22px;
+  height: 15px;
+  flex-shrink: 0;
+  background: #fff;
+  border-radius: 2px;
+  will-change: transform, opacity;
+}
+.header-balloon.svelte-xybm77:after {
+  content: "";
+  position: absolute;
+  left: 6px;
+  bottom: -3px;
+  width: 0;
+  height: 0;
+  border: 3px solid transparent;
+  border-top-color: #fff;
+  border-bottom: 0;
+}
+.header-balloon-dot.svelte-xybm77 {
+  width: 2.5px;
+  height: 2.5px;
+  border-radius: 50%;
+  background: #111010;
+}
+.nick.svelte-xybm77 {
+  color: #e22c4b;
+  font-weight: 700;
+}
+.popup-header-text.svelte-xybm77 {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  font-family: Jost, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  color: #ffffffd9;
+  line-height: 1.3;
+}
+@keyframes svelte-xybm77-dividerExpand {
+  0% {
+    width: 0%;
+    opacity: 0;
+  }
+  to {
+    width: 100%;
+    opacity: 1;
+  }
+}
+.divider.svelte-xybm77 {
+  width: 100%;
+  height: 1px;
+  background: #c1ff4626;
+  align-self: center;
+  animation: svelte-xybm77-dividerExpand 0.5s ease-out forwards;
+}
+.popup.svelte-xybm77 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 4px;
+  padding: 8px 8px 6px;
+  box-sizing: border-box;
+}
+.item-slot.svelte-xybm77 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  opacity: 0;
+  pointer-events: all;
+  cursor: default;
+}
+.item-icon.svelte-xybm77 {
+  display: block;
+  width: 27px;
+  height: 27px;
+  border-radius: 0;
+  object-fit: cover;
+}
+.item-num.svelte-xybm77 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 27px;
+  height: 27px;
+  font-family: Jost, sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  color: #c1ff4673;
+}
+.item-slot.completed.svelte-xybm77 .item-num:where(.svelte-xybm77) {
+  color: #c1ff46;
+}
+.item-order.svelte-xybm77 {
+  font-family: Jost, sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 1;
+  color: #c1ff4673;
+}
+.item-slot.completed.svelte-xybm77 .item-order:where(.svelte-xybm77) {
+  color: #c1ff46;
+}

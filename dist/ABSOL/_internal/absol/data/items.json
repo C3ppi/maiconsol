@@ -1,0 +1,308 @@
+{
+ "version": "16.17.1",
+ "basic": [
+  {
+   "id": 1001,
+   "name": "Botas",
+   "total": 300
+  },
+  {
+   "id": 2422,
+   "name": "Botas Levemente Mágicas",
+   "total": 300
+  }
+ ],
+ "upgrades": [
+  {
+   "id": 3006,
+   "name": "Grevas do Berserker",
+   "total": 1100,
+   "recipe": 300,
+   "components": [
+    {
+     "id": 1001,
+     "price": 300
+    },
+    {
+     "id": 1042,
+     "price": 250
+    },
+    {
+     "id": 1042,
+     "price": 250
+    }
+   ],
+   "stats": {
+    "moveSpeed": 45
+   }
+  },
+  {
+   "id": 3008,
+   "name": "Grevas Vorazes",
+   "total": 1000,
+   "recipe": 700,
+   "components": [
+    {
+     "id": 1001,
+     "price": 300
+    }
+   ],
+   "stats": {
+    "moveSpeed": 45
+   }
+  },
+  {
+   "id": 3009,
+   "name": "Botas da Rapidez",
+   "total": 1000,
+   "recipe": 700,
+   "components": [
+    {
+     "id": 1001,
+     "price": 300
+    }
+   ],
+   "stats": {
+    "moveSpeed": 55
+   }
+  },
+  {
+   "id": 3010,
+   "name": "Solas Simbióticas",
+   "total": 900,
+   "recipe": 600,
+   "components": [
+    {
+     "id": 1001,
+     "price": 300
+    }
+   ],
+   "stats": {
+    "moveSpeed": 40
+   }
+  },
+  {
+   "id": 3013,
+   "name": "Almas Sincronizadas",
+   "total": 900,
+   "recipe": 0,
+   "components": [
+    {
+     "id": 1001,
+     "price": 300
+    }
+   ],
+   "stats": {
+    "moveSpeed": 45
+   }
+  },
+  {
+   "id": 3020,
+   "name": "Sapatos do Feiticeiro",
+   "total": 1100,
+   "recipe": 800,
+   "components": [
+    {
+     "id": 1001,
+     "price": 300
+    }
+   ],
+   "stats": {
+    "moveSpeed": 45
+   }
+  },
+  {
+   "id": 3047,
+   "name": "Botas Galvanizadas de Aço",
+   "total": 1200,
+   "recipe": 600,
+   "components": [
+    {
+     "id": 1001,
+     "price": 300
+    },
+    {
+     "id": 1029,
+     "price": 300
+    }
+   ],
+   "stats": {
+    "moveSpeed": 45,
+    "armor": 25
+   }
+  },
+  {
+   "id": 3111,
+   "name": "Passos de Mercúrio",
+   "total": 1250,
+   "recipe": 550,
+   "components": [
+    {
+     "id": 1001,
+     "price": 300
+    },
+    {
+     "id": 1033,
+     "price": 400
+    }
+   ],
+   "stats": {
+    "moveSpeed": 45,
+    "magicResist": 20
+   }
+  },
+  {
+   "id": 3117,
+   "name": "Botas da Mobilidade",
+   "total": 1000,
+   "recipe": 700,
+   "components": [
+    {
+     "id": 1001,
+     "price": 300
+    }
+   ],
+   "stats": {
+    "moveSpeed": 45
+   }
+  },
+  {
+   "id": 3158,
+   "name": "Botas Ionianas da Lucidez",
+   "total": 900,
+   "recipe": 350,
+   "components": [
+    {
+     "id": 1001,
+     "price": 300
+    },
+    {
+     "id": 2022,
+     "price": 250
+    }
+   ],
+   "stats": {
+    "moveSpeed": 45
+   }
+  },
+  {
+   "id": 3168,
+   "name": "Caminho Imortal",
+   "total": 1000,
+   "recipe": 0,
+   "components": [
+    {
+     "id": 1001,
+     "price": 300
+    }
+   ],
+   "stats": {
+    "moveSpeed": 45
+   }
+  },
+  {
+   "id": 3170,
+   "name": "Marcha Célere",
+   "total": 1000,
+   "recipe": 0,
+   "components": [
+    {
+     "id": 1001,
+     "price": 300
+    }
+   ],
+   "stats": {
+    "moveSpeed": 65
+   }
+  },
+  {
+   "id": 3171,
+   "name": "Lucidez Escarlate",
+   "total": 900,
+   "recipe": 0,
+   "components": [
+    {
+     "id": 1001,
+     "price": 300
+    },
+    {
+     "id": 2022,
+     "price": 250
+    }
+   ],
+   "stats": {
+    "moveSpeed": 45
+   }
+  },
+  {
+   "id": 3173,
+   "name": "Esmagadores Acorrentados",
+   "total": 1250,
+   "recipe": 0,
+   "components": [
+    {
+     "id": 1001,
+     "price": 300
+    },
+    {
+     "id": 1033,
+     "price": 400
+    }
+   ],
+   "stats": {
+    "moveSpeed": 45,
+    "magicResist": 25
+   }
+  },
+  {
+   "id": 3174,
+   "name": "Mobilização Blindada",
+   "total": 1200,
+   "recipe": 0,
+   "components": [
+    {
+     "id": 1001,
+     "price": 300
+    },
+    {
+     "id": 1029,
+     "price": 300
+    }
+   ],
+   "stats": {
+    "moveSpeed": 45,
+    "armor": 35
+   }
+  },
+  {
+   "id": 3175,
+   "name": "Sapatos Enfeitiçados",
+   "total": 1100,
+   "recipe": 0,
+   "components": [
+    {
+     "id": 1001,
+     "price": 300
+    }
+   ],
+   "stats": {
+    "moveSpeed": 45
+   }
+  },
+  {
+   "id": 3176,
+   "name": "Sempre Avante",
+   "total": 900,
+   "recipe": 0,
+   "components": [
+    {
+     "id": 1001,
+     "price": 300
+    }
+   ],
+   "stats": {
+    "moveSpeed": 55
+   }
+  }
+ ]
+}
